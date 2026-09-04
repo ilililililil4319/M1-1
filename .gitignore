@@ -1,0 +1,26 @@
+# API 키 및 환경변수 (절대 GitHub에 올리지 않음)
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# 데이터 (용량이 크거나 민감할 경우 - 필요시 주석 해제)
+# data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 대시보드(web/) - Node.js
+web/node_modules/
+web/.next/
+web/.vercel/
+
+# 에디터
+.vscode/
