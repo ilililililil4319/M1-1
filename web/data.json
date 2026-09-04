@@ -1,0 +1,4266 @@
+{
+  "meta": {
+    "source": "한국은행 ECOS - 원/달러 매매기준율",
+    "period_start": "2024-07-01",
+    "period_end": "2026-09-03",
+    "count": 532
+  },
+  "data": [
+    {
+      "date": "2024-07-01",
+      "usd_krw": 1383.8,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": null,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-02",
+      "usd_krw": 1386.9,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.22,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-03",
+      "usd_krw": 1385.8,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.08,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-04",
+      "usd_krw": 1381.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.35,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-05",
+      "usd_krw": 1381.4,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.03,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-08",
+      "usd_krw": 1383.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.12,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-09",
+      "usd_krw": 1383.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.03,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-10",
+      "usd_krw": 1384.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.04,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-11",
+      "usd_krw": 1373.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.79,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-12",
+      "usd_krw": 1375.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.2,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-15",
+      "usd_krw": 1383.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.55,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-16",
+      "usd_krw": 1385.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.13,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-17",
+      "usd_krw": 1381.3,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.27,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-18",
+      "usd_krw": 1383.4,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.15,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-19",
+      "usd_krw": 1390.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.49,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-22",
+      "usd_krw": 1388.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.14,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-23",
+      "usd_krw": 1386.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.15,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-24",
+      "usd_krw": 1379.9,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.45,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-25",
+      "usd_krw": 1383.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.22,
+      "volatility_20": null
+    },
+    {
+      "date": "2024-07-26",
+      "usd_krw": 1384.0,
+      "ma20": 1383.12,
+      "ma60": null,
+      "pct_change": 0.07,
+      "volatility_20": 3.91
+    },
+    {
+      "date": "2024-07-29",
+      "usd_krw": 1383.7,
+      "ma20": 1383.12,
+      "ma60": null,
+      "pct_change": -0.02,
+      "volatility_20": 3.91
+    },
+    {
+      "date": "2024-07-30",
+      "usd_krw": 1384.6,
+      "ma20": 1383.0,
+      "ma60": null,
+      "pct_change": 0.07,
+      "volatility_20": 3.83
+    },
+    {
+      "date": "2024-07-31",
+      "usd_krw": 1370.2,
+      "ma20": 1382.22,
+      "ma60": null,
+      "pct_change": -1.04,
+      "volatility_20": 4.71
+    },
+    {
+      "date": "2024-08-01",
+      "usd_krw": 1369.8,
+      "ma20": 1381.66,
+      "ma60": null,
+      "pct_change": -0.03,
+      "volatility_20": 5.47
+    },
+    {
+      "date": "2024-08-02",
+      "usd_krw": 1361.5,
+      "ma20": 1380.67,
+      "ma60": null,
+      "pct_change": -0.61,
+      "volatility_20": 7.09
+    },
+    {
+      "date": "2024-08-05",
+      "usd_krw": 1370.0,
+      "ma20": 1380.02,
+      "ma60": null,
+      "pct_change": 0.62,
+      "volatility_20": 7.45
+    },
+    {
+      "date": "2024-08-06",
+      "usd_krw": 1377.6,
+      "ma20": 1379.72,
+      "ma60": null,
+      "pct_change": 0.55,
+      "volatility_20": 7.42
+    },
+    {
+      "date": "2024-08-07",
+      "usd_krw": 1374.0,
+      "ma20": 1379.22,
+      "ma60": null,
+      "pct_change": -0.26,
+      "volatility_20": 7.46
+    },
+    {
+      "date": "2024-08-08",
+      "usd_krw": 1377.2,
+      "ma20": 1379.43,
+      "ma60": null,
+      "pct_change": 0.23,
+      "volatility_20": 7.33
+    },
+    {
+      "date": "2024-08-09",
+      "usd_krw": 1365.3,
+      "ma20": 1378.91,
+      "ma60": null,
+      "pct_change": -0.86,
+      "volatility_20": 7.95
+    },
+    {
+      "date": "2024-08-12",
+      "usd_krw": 1369.6,
+      "ma20": 1378.23,
+      "ma60": null,
+      "pct_change": 0.31,
+      "volatility_20": 8.14
+    },
+    {
+      "date": "2024-08-13",
+      "usd_krw": 1366.5,
+      "ma20": 1377.3,
+      "ma60": null,
+      "pct_change": -0.23,
+      "volatility_20": 8.38
+    },
+    {
+      "date": "2024-08-14",
+      "usd_krw": 1358.0,
+      "ma20": 1376.14,
+      "ma60": null,
+      "pct_change": -0.62,
+      "volatility_20": 9.36
+    },
+    {
+      "date": "2024-08-16",
+      "usd_krw": 1351.3,
+      "ma20": 1374.54,
+      "ma60": null,
+      "pct_change": -0.49,
+      "volatility_20": 10.7
+    },
+    {
+      "date": "2024-08-19",
+      "usd_krw": 1334.8,
+      "ma20": 1371.76,
+      "ma60": null,
+      "pct_change": -1.22,
+      "volatility_20": 13.29
+    },
+    {
+      "date": "2024-08-20",
+      "usd_krw": 1331.5,
+      "ma20": 1368.93,
+      "ma60": null,
+      "pct_change": -0.25,
+      "volatility_20": 15.47
+    },
+    {
+      "date": "2024-08-21",
+      "usd_krw": 1333.8,
+      "ma20": 1366.32,
+      "ma60": null,
+      "pct_change": 0.17,
+      "volatility_20": 16.78
+    },
+    {
+      "date": "2024-08-22",
+      "usd_krw": 1343.5,
+      "ma20": 1364.5,
+      "ma60": null,
+      "pct_change": 0.73,
+      "volatility_20": 17.2
+    },
+    {
+      "date": "2024-08-23",
+      "usd_krw": 1328.0,
+      "ma20": 1361.74,
+      "ma60": null,
+      "pct_change": -1.15,
+      "volatility_20": 18.44
+    },
+    {
+      "date": "2024-08-26",
+      "usd_krw": 1329.8,
+      "ma20": 1359.04,
+      "ma60": null,
+      "pct_change": 0.14,
+      "volatility_20": 18.97
+    },
+    {
+      "date": "2024-08-27",
+      "usd_krw": 1331.5,
+      "ma20": 1356.42,
+      "ma60": null,
+      "pct_change": 0.13,
+      "volatility_20": 18.99
+    },
+    {
+      "date": "2024-08-28",
+      "usd_krw": 1337.0,
+      "ma20": 1354.04,
+      "ma60": null,
+      "pct_change": 0.41,
+      "volatility_20": 18.24
+    },
+    {
+      "date": "2024-08-29",
+      "usd_krw": 1332.5,
+      "ma20": 1352.16,
+      "ma60": null,
+      "pct_change": -0.34,
+      "volatility_20": 18.43
+    },
+    {
+      "date": "2024-08-30",
+      "usd_krw": 1337.5,
+      "ma20": 1350.54,
+      "ma60": null,
+      "pct_change": 0.38,
+      "volatility_20": 18.21
+    },
+    {
+      "date": "2024-09-02",
+      "usd_krw": 1338.5,
+      "ma20": 1349.4,
+      "ma60": null,
+      "pct_change": 0.07,
+      "volatility_20": 18.21
+    },
+    {
+      "date": "2024-09-03",
+      "usd_krw": 1341.4,
+      "ma20": 1347.96,
+      "ma60": null,
+      "pct_change": 0.22,
+      "volatility_20": 17.62
+    },
+    {
+      "date": "2024-09-04",
+      "usd_krw": 1336.0,
+      "ma20": 1345.88,
+      "ma60": null,
+      "pct_change": -0.4,
+      "volatility_20": 16.35
+    },
+    {
+      "date": "2024-09-05",
+      "usd_krw": 1333.5,
+      "ma20": 1343.86,
+      "ma60": null,
+      "pct_change": -0.19,
+      "volatility_20": 15.15
+    },
+    {
+      "date": "2024-09-06",
+      "usd_krw": 1339.9,
+      "ma20": 1342.0,
+      "ma60": null,
+      "pct_change": 0.48,
+      "volatility_20": 12.97
+    },
+    {
+      "date": "2024-09-09",
+      "usd_krw": 1341.0,
+      "ma20": 1340.78,
+      "ma60": null,
+      "pct_change": 0.08,
+      "volatility_20": 11.75
+    },
+    {
+      "date": "2024-09-10",
+      "usd_krw": 1343.8,
+      "ma20": 1339.49,
+      "ma60": null,
+      "pct_change": 0.21,
+      "volatility_20": 9.65
+    },
+    {
+      "date": "2024-09-11",
+      "usd_krw": 1341.5,
+      "ma20": 1338.24,
+      "ma60": null,
+      "pct_change": -0.17,
+      "volatility_20": 7.3
+    },
+    {
+      "date": "2024-09-12",
+      "usd_krw": 1341.6,
+      "ma20": 1337.42,
+      "ma60": null,
+      "pct_change": 0.01,
+      "volatility_20": 5.71
+    },
+    {
+      "date": "2024-09-13",
+      "usd_krw": 1329.6,
+      "ma20": 1336.34,
+      "ma60": null,
+      "pct_change": -0.89,
+      "volatility_20": 4.94
+    },
+    {
+      "date": "2024-09-19",
+      "usd_krw": 1329.2,
+      "ma20": 1336.06,
+      "ma60": null,
+      "pct_change": -0.03,
+      "volatility_20": 5.19
+    },
+    {
+      "date": "2024-09-20",
+      "usd_krw": 1333.0,
+      "ma20": 1336.13,
+      "ma60": null,
+      "pct_change": 0.29,
+      "volatility_20": 5.13
+    },
+    {
+      "date": "2024-09-23",
+      "usd_krw": 1334.8,
+      "ma20": 1336.18,
+      "ma60": null,
+      "pct_change": 0.14,
+      "volatility_20": 5.11
+    },
+    {
+      "date": "2024-09-24",
+      "usd_krw": 1330.4,
+      "ma20": 1335.52,
+      "ma60": null,
+      "pct_change": -0.33,
+      "volatility_20": 4.96
+    },
+    {
+      "date": "2024-09-25",
+      "usd_krw": 1336.1,
+      "ma20": 1335.93,
+      "ma60": null,
+      "pct_change": 0.43,
+      "volatility_20": 4.63
+    },
+    {
+      "date": "2024-09-26",
+      "usd_krw": 1317.4,
+      "ma20": 1335.31,
+      "ma60": 1359.16,
+      "pct_change": -1.4,
+      "volatility_20": 6.09
+    },
+    {
+      "date": "2024-09-27",
+      "usd_krw": 1310.1,
+      "ma20": 1334.24,
+      "ma60": 1357.93,
+      "pct_change": -0.55,
+      "volatility_20": 8.28
+    },
+    {
+      "date": "2024-09-30",
+      "usd_krw": 1316.8,
+      "ma20": 1333.23,
+      "ma60": 1356.76,
+      "pct_change": 0.51,
+      "volatility_20": 9.12
+    },
+    {
+      "date": "2024-10-02",
+      "usd_krw": 1324.4,
+      "ma20": 1332.82,
+      "ma60": 1355.74,
+      "pct_change": 0.58,
+      "volatility_20": 9.33
+    },
+    {
+      "date": "2024-10-04",
+      "usd_krw": 1349.5,
+      "ma20": 1333.42,
+      "ma60": 1355.21,
+      "pct_change": 1.9,
+      "volatility_20": 10.01
+    },
+    {
+      "date": "2024-10-07",
+      "usd_krw": 1344.5,
+      "ma20": 1333.72,
+      "ma60": 1354.6,
+      "pct_change": -0.37,
+      "volatility_20": 10.25
+    },
+    {
+      "date": "2024-10-08",
+      "usd_krw": 1346.0,
+      "ma20": 1333.96,
+      "ma60": 1353.98,
+      "pct_change": 0.11,
+      "volatility_20": 10.48
+    },
+    {
+      "date": "2024-10-10",
+      "usd_krw": 1355.2,
+      "ma20": 1334.92,
+      "ma60": 1353.51,
+      "pct_change": 0.68,
+      "volatility_20": 11.51
+    },
+    {
+      "date": "2024-10-11",
+      "usd_krw": 1351.3,
+      "ma20": 1335.8,
+      "ma60": 1352.96,
+      "pct_change": -0.29,
+      "volatility_20": 12.07
+    },
+    {
+      "date": "2024-10-14",
+      "usd_krw": 1358.5,
+      "ma20": 1336.74,
+      "ma60": 1352.72,
+      "pct_change": 0.53,
+      "volatility_20": 13.08
+    },
+    {
+      "date": "2024-10-15",
+      "usd_krw": 1366.3,
+      "ma20": 1338.0,
+      "ma60": 1352.56,
+      "pct_change": 0.57,
+      "volatility_20": 14.64
+    },
+    {
+      "date": "2024-10-16",
+      "usd_krw": 1364.5,
+      "ma20": 1339.04,
+      "ma60": 1352.25,
+      "pct_change": -0.13,
+      "volatility_20": 15.76
+    },
+    {
+      "date": "2024-10-17",
+      "usd_krw": 1372.7,
+      "ma20": 1340.6,
+      "ma60": 1352.05,
+      "pct_change": 0.6,
+      "volatility_20": 17.47
+    },
+    {
+      "date": "2024-10-18",
+      "usd_krw": 1369.3,
+      "ma20": 1341.98,
+      "ma60": 1351.85,
+      "pct_change": -0.25,
+      "volatility_20": 18.61
+    },
+    {
+      "date": "2024-10-21",
+      "usd_krw": 1378.8,
+      "ma20": 1344.44,
+      "ma60": 1351.77,
+      "pct_change": 0.69,
+      "volatility_20": 20.09
+    },
+    {
+      "date": "2024-10-22",
+      "usd_krw": 1379.6,
+      "ma20": 1346.96,
+      "ma60": 1351.59,
+      "pct_change": 0.06,
+      "volatility_20": 21.2
+    },
+    {
+      "date": "2024-10-23",
+      "usd_krw": 1381.6,
+      "ma20": 1349.39,
+      "ma60": 1351.48,
+      "pct_change": 0.14,
+      "volatility_20": 22.28
+    },
+    {
+      "date": "2024-10-24",
+      "usd_krw": 1382.3,
+      "ma20": 1351.76,
+      "ma60": 1351.42,
+      "pct_change": 0.05,
+      "volatility_20": 23.15
+    },
+    {
+      "date": "2024-10-25",
+      "usd_krw": 1389.2,
+      "ma20": 1354.7,
+      "ma60": 1351.58,
+      "pct_change": 0.5,
+      "volatility_20": 24.02
+    },
+    {
+      "date": "2024-10-28",
+      "usd_krw": 1385.7,
+      "ma20": 1357.18,
+      "ma60": 1351.62,
+      "pct_change": -0.25,
+      "volatility_20": 24.55
+    },
+    {
+      "date": "2024-10-29",
+      "usd_krw": 1382.2,
+      "ma20": 1360.42,
+      "ma60": 1351.59,
+      "pct_change": -0.25,
+      "volatility_20": 23.26
+    },
+    {
+      "date": "2024-10-30",
+      "usd_krw": 1379.8,
+      "ma20": 1363.91,
+      "ma60": 1351.52,
+      "pct_change": -0.17,
+      "volatility_20": 20.37
+    },
+    {
+      "date": "2024-10-31",
+      "usd_krw": 1377.0,
+      "ma20": 1366.92,
+      "ma60": 1351.4,
+      "pct_change": -0.2,
+      "volatility_20": 17.25
+    },
+    {
+      "date": "2024-11-01",
+      "usd_krw": 1378.0,
+      "ma20": 1369.6,
+      "ma60": 1351.53,
+      "pct_change": 0.07,
+      "volatility_20": 14.19
+    },
+    {
+      "date": "2024-11-04",
+      "usd_krw": 1375.5,
+      "ma20": 1370.9,
+      "ma60": 1351.62,
+      "pct_change": -0.18,
+      "volatility_20": 13.42
+    },
+    {
+      "date": "2024-11-05",
+      "usd_krw": 1380.1,
+      "ma20": 1372.68,
+      "ma60": 1351.93,
+      "pct_change": 0.33,
+      "volatility_20": 12.02
+    },
+    {
+      "date": "2024-11-06",
+      "usd_krw": 1399.3,
+      "ma20": 1375.34,
+      "ma60": 1352.42,
+      "pct_change": 1.39,
+      "volatility_20": 11.7
+    },
+    {
+      "date": "2024-11-07",
+      "usd_krw": 1385.7,
+      "ma20": 1376.87,
+      "ma60": 1352.56,
+      "pct_change": -0.97,
+      "volatility_20": 10.9
+    },
+    {
+      "date": "2024-11-08",
+      "usd_krw": 1395.3,
+      "ma20": 1379.07,
+      "ma60": 1352.91,
+      "pct_change": 0.69,
+      "volatility_20": 9.85
+    },
+    {
+      "date": "2024-11-11",
+      "usd_krw": 1401.0,
+      "ma20": 1381.2,
+      "ma60": 1353.31,
+      "pct_change": 0.41,
+      "volatility_20": 9.77
+    },
+    {
+      "date": "2024-11-12",
+      "usd_krw": 1408.9,
+      "ma20": 1383.32,
+      "ma60": 1354.04,
+      "pct_change": 0.56,
+      "volatility_20": 10.92
+    },
+    {
+      "date": "2024-11-13",
+      "usd_krw": 1397.5,
+      "ma20": 1384.98,
+      "ma60": 1354.5,
+      "pct_change": -0.81,
+      "volatility_20": 10.41
+    },
+    {
+      "date": "2024-11-14",
+      "usd_krw": 1402.5,
+      "ma20": 1386.46,
+      "ma60": 1355.1,
+      "pct_change": 0.36,
+      "volatility_20": 10.69
+    },
+    {
+      "date": "2024-11-15",
+      "usd_krw": 1400.0,
+      "ma20": 1388.0,
+      "ma60": 1355.8,
+      "pct_change": -0.18,
+      "volatility_20": 10.29
+    },
+    {
+      "date": "2024-11-18",
+      "usd_krw": 1393.5,
+      "ma20": 1388.74,
+      "ma60": 1356.5,
+      "pct_change": -0.46,
+      "volatility_20": 10.12
+    },
+    {
+      "date": "2024-11-19",
+      "usd_krw": 1393.0,
+      "ma20": 1389.4,
+      "ma60": 1357.47,
+      "pct_change": -0.04,
+      "volatility_20": 9.93
+    },
+    {
+      "date": "2024-11-20",
+      "usd_krw": 1400.9,
+      "ma20": 1390.37,
+      "ma60": 1358.63,
+      "pct_change": 0.57,
+      "volatility_20": 10.07
+    },
+    {
+      "date": "2024-11-21",
+      "usd_krw": 1402.0,
+      "ma20": 1391.36,
+      "ma60": 1359.77,
+      "pct_change": 0.08,
+      "volatility_20": 10.2
+    },
+    {
+      "date": "2024-11-22",
+      "usd_krw": 1404.2,
+      "ma20": 1392.1,
+      "ma60": 1360.78,
+      "pct_change": 0.16,
+      "volatility_20": 10.58
+    },
+    {
+      "date": "2024-11-25",
+      "usd_krw": 1399.0,
+      "ma20": 1392.77,
+      "ma60": 1361.96,
+      "pct_change": -0.37,
+      "volatility_20": 10.57
+    },
+    {
+      "date": "2024-11-26",
+      "usd_krw": 1396.1,
+      "ma20": 1393.46,
+      "ma60": 1363.07,
+      "pct_change": -0.21,
+      "volatility_20": 10.29
+    },
+    {
+      "date": "2024-11-27",
+      "usd_krw": 1393.0,
+      "ma20": 1394.12,
+      "ma60": 1364.09,
+      "pct_change": -0.22,
+      "volatility_20": 9.78
+    },
+    {
+      "date": "2024-11-28",
+      "usd_krw": 1394.5,
+      "ma20": 1395.0,
+      "ma60": 1365.05,
+      "pct_change": 0.11,
+      "volatility_20": 8.91
+    },
+    {
+      "date": "2024-11-29",
+      "usd_krw": 1396.5,
+      "ma20": 1395.92,
+      "ma60": 1366.12,
+      "pct_change": 0.14,
+      "volatility_20": 7.96
+    },
+    {
+      "date": "2024-12-02",
+      "usd_krw": 1401.7,
+      "ma20": 1397.24,
+      "ma60": 1367.19,
+      "pct_change": 0.37,
+      "volatility_20": 6.44
+    },
+    {
+      "date": "2024-12-03",
+      "usd_krw": 1425.0,
+      "ma20": 1399.48,
+      "ma60": 1368.63,
+      "pct_change": 1.66,
+      "volatility_20": 7.83
+    },
+    {
+      "date": "2024-12-04",
+      "usd_krw": 1413.6,
+      "ma20": 1400.2,
+      "ma60": 1369.83,
+      "pct_change": -0.8,
+      "volatility_20": 8.44
+    },
+    {
+      "date": "2024-12-05",
+      "usd_krw": 1417.3,
+      "ma20": 1401.78,
+      "ma60": 1371.19,
+      "pct_change": 0.26,
+      "volatility_20": 8.54
+    },
+    {
+      "date": "2024-12-06",
+      "usd_krw": 1423.0,
+      "ma20": 1403.16,
+      "ma60": 1372.68,
+      "pct_change": 0.4,
+      "volatility_20": 9.61
+    },
+    {
+      "date": "2024-12-09",
+      "usd_krw": 1435.0,
+      "ma20": 1404.86,
+      "ma60": 1374.26,
+      "pct_change": 0.84,
+      "volatility_20": 11.94
+    },
+    {
+      "date": "2024-12-10",
+      "usd_krw": 1432.8,
+      "ma20": 1406.05,
+      "ma60": 1375.79,
+      "pct_change": -0.15,
+      "volatility_20": 13.46
+    },
+    {
+      "date": "2024-12-11",
+      "usd_krw": 1430.9,
+      "ma20": 1407.72,
+      "ma60": 1377.24,
+      "pct_change": -0.13,
+      "volatility_20": 14.38
+    },
+    {
+      "date": "2024-12-12",
+      "usd_krw": 1430.5,
+      "ma20": 1409.12,
+      "ma60": 1378.73,
+      "pct_change": -0.03,
+      "volatility_20": 15.19
+    },
+    {
+      "date": "2024-12-13",
+      "usd_krw": 1435.2,
+      "ma20": 1410.88,
+      "ma60": 1380.29,
+      "pct_change": 0.33,
+      "volatility_20": 16.09
+    },
+    {
+      "date": "2024-12-16",
+      "usd_krw": 1436.0,
+      "ma20": 1413.01,
+      "ma60": 1382.06,
+      "pct_change": 0.06,
+      "volatility_20": 16.47
+    },
+    {
+      "date": "2024-12-17",
+      "usd_krw": 1437.1,
+      "ma20": 1415.22,
+      "ma60": 1383.86,
+      "pct_change": 0.08,
+      "volatility_20": 16.6
+    },
+    {
+      "date": "2024-12-18",
+      "usd_krw": 1439.1,
+      "ma20": 1417.12,
+      "ma60": 1385.63,
+      "pct_change": 0.14,
+      "volatility_20": 17.06
+    },
+    {
+      "date": "2024-12-19",
+      "usd_krw": 1447.3,
+      "ma20": 1419.39,
+      "ma60": 1387.5,
+      "pct_change": 0.57,
+      "volatility_20": 17.93
+    },
+    {
+      "date": "2024-12-20",
+      "usd_krw": 1448.5,
+      "ma20": 1421.6,
+      "ma60": 1389.47,
+      "pct_change": 0.08,
+      "volatility_20": 18.68
+    },
+    {
+      "date": "2024-12-23",
+      "usd_krw": 1450.9,
+      "ma20": 1424.2,
+      "ma60": 1391.38,
+      "pct_change": 0.17,
+      "volatility_20": 18.98
+    },
+    {
+      "date": "2024-12-24",
+      "usd_krw": 1457.5,
+      "ma20": 1427.27,
+      "ma60": 1393.72,
+      "pct_change": 0.45,
+      "volatility_20": 19.16
+    },
+    {
+      "date": "2024-12-26",
+      "usd_krw": 1469.6,
+      "ma20": 1431.1,
+      "ma60": 1396.38,
+      "pct_change": 0.83,
+      "volatility_20": 19.6
+    },
+    {
+      "date": "2024-12-27",
+      "usd_krw": 1470.5,
+      "ma20": 1434.9,
+      "ma60": 1398.94,
+      "pct_change": 0.06,
+      "volatility_20": 19.49
+    },
+    {
+      "date": "2024-12-30",
+      "usd_krw": 1472.3,
+      "ma20": 1438.69,
+      "ma60": 1401.4,
+      "pct_change": 0.12,
+      "volatility_20": 19.0
+    },
+    {
+      "date": "2024-12-31",
+      "usd_krw": null,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": null,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-02",
+      "usd_krw": 1469.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": null,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-03",
+      "usd_krw": 1469.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.04,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-06",
+      "usd_krw": 1459.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.71,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-07",
+      "usd_krw": 1453.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.42,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-08",
+      "usd_krw": 1459.6,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.45,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-09",
+      "usd_krw": 1460.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.03,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-10",
+      "usd_krw": 1472.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.82,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-13",
+      "usd_krw": 1467.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.31,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-14",
+      "usd_krw": 1462.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.37,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-15",
+      "usd_krw": 1454.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.5,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-16",
+      "usd_krw": 1457.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.19,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-17",
+      "usd_krw": 1457.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.01,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-20",
+      "usd_krw": 1440.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -1.21,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-21",
+      "usd_krw": 1435.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.31,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-22",
+      "usd_krw": 1436.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.05,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-23",
+      "usd_krw": 1433.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.17,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-24",
+      "usd_krw": 1431.4,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.16,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-01-31",
+      "usd_krw": 1453.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 1.54,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-02-03",
+      "usd_krw": 1462.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.58,
+      "volatility_20": null
+    },
+    {
+      "date": "2025-02-04",
+      "usd_krw": 1451.5,
+      "ma20": 1454.29,
+      "ma60": null,
+      "pct_change": -0.72,
+      "volatility_20": 12.59
+    },
+    {
+      "date": "2025-02-05",
+      "usd_krw": 1443.5,
+      "ma20": 1453.01,
+      "ma60": null,
+      "pct_change": -0.55,
+      "volatility_20": 12.31
+    },
+    {
+      "date": "2025-02-06",
+      "usd_krw": 1447.5,
+      "ma20": 1451.9,
+      "ma60": null,
+      "pct_change": 0.28,
+      "volatility_20": 11.71
+    },
+    {
+      "date": "2025-02-07",
+      "usd_krw": 1454.0,
+      "ma20": 1451.64,
+      "ma60": null,
+      "pct_change": 0.45,
+      "volatility_20": 11.6
+    },
+    {
+      "date": "2025-02-10",
+      "usd_krw": 1451.8,
+      "ma20": 1451.58,
+      "ma60": null,
+      "pct_change": -0.15,
+      "volatility_20": 11.59
+    },
+    {
+      "date": "2025-02-11",
+      "usd_krw": 1452.2,
+      "ma20": 1451.21,
+      "ma60": null,
+      "pct_change": 0.03,
+      "volatility_20": 11.44
+    },
+    {
+      "date": "2025-02-12",
+      "usd_krw": 1456.0,
+      "ma20": 1451.01,
+      "ma60": null,
+      "pct_change": 0.26,
+      "volatility_20": 11.31
+    },
+    {
+      "date": "2025-02-13",
+      "usd_krw": 1446.6,
+      "ma20": 1449.74,
+      "ma60": null,
+      "pct_change": -0.65,
+      "volatility_20": 10.2
+    },
+    {
+      "date": "2025-02-14",
+      "usd_krw": 1441.9,
+      "ma20": 1448.46,
+      "ma60": null,
+      "pct_change": -0.32,
+      "volatility_20": 9.43
+    },
+    {
+      "date": "2025-02-17",
+      "usd_krw": 1442.0,
+      "ma20": 1447.46,
+      "ma60": null,
+      "pct_change": 0.01,
+      "volatility_20": 8.97
+    },
+    {
+      "date": "2025-02-18",
+      "usd_krw": 1439.5,
+      "ma20": 1446.7,
+      "ma60": null,
+      "pct_change": -0.17,
+      "volatility_20": 8.97
+    },
+    {
+      "date": "2025-02-19",
+      "usd_krw": 1441.4,
+      "ma20": 1445.9,
+      "ma60": null,
+      "pct_change": 0.13,
+      "volatility_20": 8.67
+    },
+    {
+      "date": "2025-02-20",
+      "usd_krw": 1435.5,
+      "ma20": 1444.78,
+      "ma60": null,
+      "pct_change": -0.41,
+      "volatility_20": 8.49
+    },
+    {
+      "date": "2025-02-21",
+      "usd_krw": 1433.7,
+      "ma20": 1444.47,
+      "ma60": null,
+      "pct_change": -0.13,
+      "volatility_20": 8.79
+    },
+    {
+      "date": "2025-02-24",
+      "usd_krw": 1430.5,
+      "ma20": 1444.22,
+      "ma60": null,
+      "pct_change": -0.22,
+      "volatility_20": 9.13
+    },
+    {
+      "date": "2025-02-25",
+      "usd_krw": 1434.4,
+      "ma20": 1444.13,
+      "ma60": null,
+      "pct_change": 0.27,
+      "volatility_20": 9.22
+    },
+    {
+      "date": "2025-02-26",
+      "usd_krw": 1433.8,
+      "ma20": 1444.14,
+      "ma60": null,
+      "pct_change": -0.04,
+      "volatility_20": 9.21
+    },
+    {
+      "date": "2025-02-27",
+      "usd_krw": 1445.3,
+      "ma20": 1444.83,
+      "ma60": null,
+      "pct_change": 0.8,
+      "volatility_20": 8.71
+    },
+    {
+      "date": "2025-02-28",
+      "usd_krw": 1460.0,
+      "ma20": 1445.16,
+      "ma60": null,
+      "pct_change": 1.02,
+      "volatility_20": 9.16
+    },
+    {
+      "date": "2025-03-04",
+      "usd_krw": 1460.3,
+      "ma20": 1445.07,
+      "ma60": null,
+      "pct_change": 0.02,
+      "volatility_20": 9.0
+    },
+    {
+      "date": "2025-03-05",
+      "usd_krw": 1450.0,
+      "ma20": 1445.0,
+      "ma60": null,
+      "pct_change": -0.71,
+      "volatility_20": 8.95
+    },
+    {
+      "date": "2025-03-06",
+      "usd_krw": 1445.8,
+      "ma20": 1445.11,
+      "ma60": null,
+      "pct_change": -0.29,
+      "volatility_20": 8.95
+    },
+    {
+      "date": "2025-03-07",
+      "usd_krw": 1449.3,
+      "ma20": 1445.2,
+      "ma60": null,
+      "pct_change": 0.24,
+      "volatility_20": 8.98
+    },
+    {
+      "date": "2025-03-10",
+      "usd_krw": 1455.5,
+      "ma20": 1445.28,
+      "ma60": null,
+      "pct_change": 0.43,
+      "volatility_20": 9.07
+    },
+    {
+      "date": "2025-03-11",
+      "usd_krw": 1455.0,
+      "ma20": 1445.44,
+      "ma60": null,
+      "pct_change": -0.03,
+      "volatility_20": 9.21
+    },
+    {
+      "date": "2025-03-12",
+      "usd_krw": 1452.6,
+      "ma20": 1445.46,
+      "ma60": null,
+      "pct_change": -0.16,
+      "volatility_20": 9.23
+    },
+    {
+      "date": "2025-03-13",
+      "usd_krw": 1457.0,
+      "ma20": 1445.5,
+      "ma60": null,
+      "pct_change": 0.3,
+      "volatility_20": 9.29
+    },
+    {
+      "date": "2025-03-14",
+      "usd_krw": 1453.0,
+      "ma20": 1445.82,
+      "ma60": null,
+      "pct_change": -0.27,
+      "volatility_20": 9.44
+    },
+    {
+      "date": "2025-03-17",
+      "usd_krw": 1445.1,
+      "ma20": 1445.98,
+      "ma60": null,
+      "pct_change": -0.54,
+      "volatility_20": 9.4
+    },
+    {
+      "date": "2025-03-18",
+      "usd_krw": 1451.1,
+      "ma20": 1446.44,
+      "ma60": null,
+      "pct_change": 0.42,
+      "volatility_20": 9.42
+    },
+    {
+      "date": "2025-03-19",
+      "usd_krw": 1463.0,
+      "ma20": 1447.62,
+      "ma60": null,
+      "pct_change": 0.82,
+      "volatility_20": 9.95
+    },
+    {
+      "date": "2025-03-20",
+      "usd_krw": 1466.7,
+      "ma20": 1448.88,
+      "ma60": null,
+      "pct_change": 0.25,
+      "volatility_20": 10.7
+    },
+    {
+      "date": "2025-03-21",
+      "usd_krw": 1467.0,
+      "ma20": 1450.46,
+      "ma60": null,
+      "pct_change": 0.02,
+      "volatility_20": 10.94
+    },
+    {
+      "date": "2025-03-24",
+      "usd_krw": 1469.7,
+      "ma20": 1452.26,
+      "ma60": null,
+      "pct_change": 0.18,
+      "volatility_20": 11.0
+    },
+    {
+      "date": "2025-03-25",
+      "usd_krw": 1463.5,
+      "ma20": 1453.9,
+      "ma60": null,
+      "pct_change": -0.42,
+      "volatility_20": 10.0
+    },
+    {
+      "date": "2025-03-26",
+      "usd_krw": 1467.3,
+      "ma20": 1455.55,
+      "ma60": null,
+      "pct_change": 0.26,
+      "volatility_20": 9.3
+    },
+    {
+      "date": "2025-03-27",
+      "usd_krw": 1464.6,
+      "ma20": 1457.09,
+      "ma60": null,
+      "pct_change": -0.18,
+      "volatility_20": 7.97
+    },
+    {
+      "date": "2025-03-28",
+      "usd_krw": 1469.9,
+      "ma20": 1458.32,
+      "ma60": null,
+      "pct_change": 0.36,
+      "volatility_20": 7.95
+    },
+    {
+      "date": "2025-03-31",
+      "usd_krw": 1473.7,
+      "ma20": 1459.0,
+      "ma60": null,
+      "pct_change": 0.26,
+      "volatility_20": 8.66
+    },
+    {
+      "date": "2025-04-01",
+      "usd_krw": 1471.4,
+      "ma20": 1459.56,
+      "ma60": null,
+      "pct_change": -0.16,
+      "volatility_20": 9.09
+    },
+    {
+      "date": "2025-04-02",
+      "usd_krw": 1463.0,
+      "ma20": 1460.21,
+      "ma60": 1453.16,
+      "pct_change": -0.57,
+      "volatility_20": 8.83
+    },
+    {
+      "date": "2025-04-03",
+      "usd_krw": 1453.5,
+      "ma20": 1460.59,
+      "ma60": 1452.9,
+      "pct_change": -0.65,
+      "volatility_20": 8.33
+    },
+    {
+      "date": "2025-04-04",
+      "usd_krw": 1461.0,
+      "ma20": 1461.18,
+      "ma60": 1452.76,
+      "pct_change": 0.52,
+      "volatility_20": 7.89
+    },
+    {
+      "date": "2025-04-07",
+      "usd_krw": 1472.0,
+      "ma20": 1462.0,
+      "ma60": 1452.97,
+      "pct_change": 0.75,
+      "volatility_20": 8.12
+    },
+    {
+      "date": "2025-04-08",
+      "usd_krw": 1479.0,
+      "ma20": 1463.2,
+      "ma60": 1453.41,
+      "pct_change": 0.48,
+      "volatility_20": 8.78
+    },
+    {
+      "date": "2025-04-09",
+      "usd_krw": 1472.0,
+      "ma20": 1464.18,
+      "ma60": 1453.61,
+      "pct_change": -0.47,
+      "volatility_20": 8.62
+    },
+    {
+      "date": "2025-04-10",
+      "usd_krw": 1455.5,
+      "ma20": 1464.1,
+      "ma60": 1453.54,
+      "pct_change": -1.12,
+      "volatility_20": 8.69
+    },
+    {
+      "date": "2025-04-11",
+      "usd_krw": 1421.0,
+      "ma20": 1462.5,
+      "ma60": 1452.69,
+      "pct_change": -2.37,
+      "volatility_20": 12.81
+    },
+    {
+      "date": "2025-04-14",
+      "usd_krw": 1422.5,
+      "ma20": 1461.37,
+      "ma60": 1451.94,
+      "pct_change": 0.11,
+      "volatility_20": 15.2
+    },
+    {
+      "date": "2025-04-15",
+      "usd_krw": 1427.2,
+      "ma20": 1460.18,
+      "ma60": 1451.36,
+      "pct_change": 0.33,
+      "volatility_20": 16.89
+    },
+    {
+      "date": "2025-04-16",
+      "usd_krw": 1415.8,
+      "ma20": 1457.82,
+      "ma60": 1450.71,
+      "pct_change": -0.8,
+      "volatility_20": 19.57
+    },
+    {
+      "date": "2025-04-17",
+      "usd_krw": 1416.6,
+      "ma20": 1455.31,
+      "ma60": 1450.03,
+      "pct_change": 0.06,
+      "volatility_20": 21.48
+    },
+    {
+      "date": "2025-04-18",
+      "usd_krw": 1423.6,
+      "ma20": 1453.14,
+      "ma60": 1449.46,
+      "pct_change": 0.49,
+      "volatility_20": 22.41
+    },
+    {
+      "date": "2025-04-21",
+      "usd_krw": 1421.5,
+      "ma20": 1450.73,
+      "ma60": 1449.15,
+      "pct_change": -0.15,
+      "volatility_20": 23.12
+    },
+    {
+      "date": "2025-04-22",
+      "usd_krw": 1424.0,
+      "ma20": 1448.76,
+      "ma60": 1448.96,
+      "pct_change": 0.18,
+      "volatility_20": 23.65
+    },
+    {
+      "date": "2025-04-23",
+      "usd_krw": 1427.2,
+      "ma20": 1446.75,
+      "ma60": 1448.81,
+      "pct_change": 0.22,
+      "volatility_20": 23.69
+    },
+    {
+      "date": "2025-04-24",
+      "usd_krw": 1432.8,
+      "ma20": 1445.16,
+      "ma60": 1448.8,
+      "pct_change": 0.39,
+      "volatility_20": 23.5
+    },
+    {
+      "date": "2025-04-25",
+      "usd_krw": 1439.8,
+      "ma20": 1443.66,
+      "ma60": 1448.94,
+      "pct_change": 0.49,
+      "volatility_20": 22.78
+    },
+    {
+      "date": "2025-04-28",
+      "usd_krw": 1436.8,
+      "ma20": 1441.81,
+      "ma60": 1448.66,
+      "pct_change": -0.21,
+      "volatility_20": 21.69
+    },
+    {
+      "date": "2025-04-29",
+      "usd_krw": 1432.0,
+      "ma20": 1439.84,
+      "ma60": 1448.16,
+      "pct_change": -0.33,
+      "volatility_20": 20.63
+    },
+    {
+      "date": "2025-04-30",
+      "usd_krw": 1426.9,
+      "ma20": 1438.04,
+      "ma60": 1447.75,
+      "pct_change": -0.36,
+      "volatility_20": 20.06
+    },
+    {
+      "date": "2025-05-02",
+      "usd_krw": 1401.5,
+      "ma20": 1435.44,
+      "ma60": 1447.05,
+      "pct_change": -1.78,
+      "volatility_20": 21.29
+    },
+    {
+      "date": "2025-05-07",
+      "usd_krw": 1394.0,
+      "ma20": 1432.08,
+      "ma60": 1446.16,
+      "pct_change": -0.54,
+      "volatility_20": 22.3
+    },
+    {
+      "date": "2025-05-08",
+      "usd_krw": 1406.9,
+      "ma20": 1428.83,
+      "ma60": 1445.37,
+      "pct_change": 0.93,
+      "volatility_20": 20.87
+    },
+    {
+      "date": "2025-05-09",
+      "usd_krw": 1398.0,
+      "ma20": 1424.78,
+      "ma60": 1444.47,
+      "pct_change": -0.63,
+      "volatility_20": 18.33
+    },
+    {
+      "date": "2025-05-12",
+      "usd_krw": 1417.0,
+      "ma20": 1422.03,
+      "ma60": 1443.89,
+      "pct_change": 1.36,
+      "volatility_20": 14.62
+    },
+    {
+      "date": "2025-05-13",
+      "usd_krw": 1416.3,
+      "ma20": 1420.07,
+      "ma60": 1443.22,
+      "pct_change": -0.05,
+      "volatility_20": 12.35
+    },
+    {
+      "date": "2025-05-14",
+      "usd_krw": 1404.5,
+      "ma20": 1419.24,
+      "ma60": 1442.52,
+      "pct_change": -0.83,
+      "volatility_20": 12.83
+    },
+    {
+      "date": "2025-05-15",
+      "usd_krw": 1398.0,
+      "ma20": 1418.02,
+      "ma60": 1441.79,
+      "pct_change": -0.46,
+      "volatility_20": 13.64
+    },
+    {
+      "date": "2025-05-16",
+      "usd_krw": 1400.0,
+      "ma20": 1416.66,
+      "ma60": 1441.09,
+      "pct_change": 0.14,
+      "volatility_20": 14.03
+    },
+    {
+      "date": "2025-05-19",
+      "usd_krw": 1388.7,
+      "ma20": 1415.3,
+      "ma60": 1440.24,
+      "pct_change": -0.81,
+      "volatility_20": 15.36
+    },
+    {
+      "date": "2025-05-20",
+      "usd_krw": 1394.4,
+      "ma20": 1414.2,
+      "ma60": 1439.46,
+      "pct_change": 0.41,
+      "volatility_20": 16.05
+    },
+    {
+      "date": "2025-05-21",
+      "usd_krw": 1371.8,
+      "ma20": 1411.6,
+      "ma60": 1438.4,
+      "pct_change": -1.62,
+      "volatility_20": 18.45
+    },
+    {
+      "date": "2025-05-22",
+      "usd_krw": 1382.7,
+      "ma20": 1409.66,
+      "ma60": 1437.55,
+      "pct_change": 0.79,
+      "volatility_20": 19.37
+    },
+    {
+      "date": "2025-05-23",
+      "usd_krw": 1366.5,
+      "ma20": 1406.79,
+      "ma60": 1436.48,
+      "pct_change": -1.17,
+      "volatility_20": 21.3
+    },
+    {
+      "date": "2025-05-26",
+      "usd_krw": 1370.5,
+      "ma20": 1403.96,
+      "ma60": 1435.42,
+      "pct_change": 0.29,
+      "volatility_20": 22.2
+    },
+    {
+      "date": "2025-05-27",
+      "usd_krw": 1376.5,
+      "ma20": 1401.14,
+      "ma60": 1434.46,
+      "pct_change": 0.44,
+      "volatility_20": 21.92
+    },
+    {
+      "date": "2025-05-28",
+      "usd_krw": 1376.0,
+      "ma20": 1397.95,
+      "ma60": 1433.31,
+      "pct_change": -0.04,
+      "volatility_20": 20.6
+    },
+    {
+      "date": "2025-05-29",
+      "usd_krw": 1371.1,
+      "ma20": 1394.66,
+      "ma60": 1431.83,
+      "pct_change": -0.36,
+      "volatility_20": 19.27
+    },
+    {
+      "date": "2025-05-30",
+      "usd_krw": 1383.1,
+      "ma20": 1392.22,
+      "ma60": 1430.54,
+      "pct_change": 0.88,
+      "volatility_20": 17.29
+    },
+    {
+      "date": "2025-06-02",
+      "usd_krw": 1377.1,
+      "ma20": 1389.73,
+      "ma60": 1429.32,
+      "pct_change": -0.43,
+      "volatility_20": 15.52
+    },
+    {
+      "date": "2025-06-04",
+      "usd_krw": 1364.1,
+      "ma20": 1387.86,
+      "ma60": 1427.96,
+      "pct_change": -0.94,
+      "volatility_20": 16.27
+    },
+    {
+      "date": "2025-06-05",
+      "usd_krw": 1356.5,
+      "ma20": 1385.98,
+      "ma60": 1426.42,
+      "pct_change": -0.56,
+      "volatility_20": 17.63
+    },
+    {
+      "date": "2025-06-09",
+      "usd_krw": 1354.2,
+      "ma20": 1383.35,
+      "ma60": 1424.73,
+      "pct_change": -0.17,
+      "volatility_20": 18.26
+    },
+    {
+      "date": "2025-06-10",
+      "usd_krw": 1368.0,
+      "ma20": 1381.85,
+      "ma60": 1423.28,
+      "pct_change": 1.02,
+      "volatility_20": 18.23
+    },
+    {
+      "date": "2025-06-11",
+      "usd_krw": 1370.9,
+      "ma20": 1379.54,
+      "ma60": 1421.92,
+      "pct_change": 0.21,
+      "volatility_20": 16.37
+    },
+    {
+      "date": "2025-06-12",
+      "usd_krw": 1357.1,
+      "ma20": 1376.58,
+      "ma60": 1420.25,
+      "pct_change": -1.01,
+      "volatility_20": 14.63
+    },
+    {
+      "date": "2025-06-13",
+      "usd_krw": 1363.5,
+      "ma20": 1374.54,
+      "ma60": 1418.76,
+      "pct_change": 0.47,
+      "volatility_20": 13.33
+    },
+    {
+      "date": "2025-06-16",
+      "usd_krw": 1358.1,
+      "ma20": 1372.54,
+      "ma60": 1417.31,
+      "pct_change": -0.4,
+      "volatility_20": 12.6
+    },
+    {
+      "date": "2025-06-17",
+      "usd_krw": 1374.0,
+      "ma20": 1371.24,
+      "ma60": 1416.02,
+      "pct_change": 1.17,
+      "volatility_20": 10.84
+    },
+    {
+      "date": "2025-06-18",
+      "usd_krw": 1372.3,
+      "ma20": 1370.42,
+      "ma60": 1414.51,
+      "pct_change": -0.12,
+      "volatility_20": 10.04
+    },
+    {
+      "date": "2025-06-19",
+      "usd_krw": 1379.8,
+      "ma20": 1369.69,
+      "ma60": 1413.06,
+      "pct_change": 0.55,
+      "volatility_20": 8.63
+    },
+    {
+      "date": "2025-06-20",
+      "usd_krw": 1374.0,
+      "ma20": 1369.8,
+      "ma60": 1411.52,
+      "pct_change": -0.42,
+      "volatility_20": 8.67
+    },
+    {
+      "date": "2025-06-23",
+      "usd_krw": 1382.0,
+      "ma20": 1369.76,
+      "ma60": 1410.05,
+      "pct_change": 0.58,
+      "volatility_20": 8.62
+    },
+    {
+      "date": "2025-06-24",
+      "usd_krw": 1361.4,
+      "ma20": 1369.51,
+      "ma60": 1408.35,
+      "pct_change": -1.49,
+      "volatility_20": 8.8
+    },
+    {
+      "date": "2025-06-25",
+      "usd_krw": 1361.2,
+      "ma20": 1369.04,
+      "ma60": 1406.58,
+      "pct_change": -0.01,
+      "volatility_20": 8.98
+    },
+    {
+      "date": "2025-06-26",
+      "usd_krw": 1352.9,
+      "ma20": 1367.87,
+      "ma60": 1404.72,
+      "pct_change": -0.61,
+      "volatility_20": 9.49
+    },
+    {
+      "date": "2025-06-27",
+      "usd_krw": 1361.3,
+      "ma20": 1367.13,
+      "ma60": 1402.91,
+      "pct_change": 0.62,
+      "volatility_20": 9.4
+    },
+    {
+      "date": "2025-06-30",
+      "usd_krw": 1355.3,
+      "ma20": 1366.34,
+      "ma60": 1400.94,
+      "pct_change": -0.44,
+      "volatility_20": 9.7
+    },
+    {
+      "date": "2025-07-01",
+      "usd_krw": 1359.0,
+      "ma20": 1365.14,
+      "ma60": 1399.06,
+      "pct_change": 0.27,
+      "volatility_20": 8.98
+    },
+    {
+      "date": "2025-07-02",
+      "usd_krw": 1355.5,
+      "ma20": 1364.05,
+      "ma60": 1397.27,
+      "pct_change": -0.26,
+      "volatility_20": 8.76
+    },
+    {
+      "date": "2025-07-03",
+      "usd_krw": 1365.5,
+      "ma20": 1364.12,
+      "ma60": 1395.81,
+      "pct_change": 0.74,
+      "volatility_20": 8.77
+    },
+    {
+      "date": "2025-07-04",
+      "usd_krw": 1362.5,
+      "ma20": 1364.42,
+      "ma60": 1394.17,
+      "pct_change": -0.22,
+      "volatility_20": 8.6
+    },
+    {
+      "date": "2025-07-07",
+      "usd_krw": 1377.0,
+      "ma20": 1365.56,
+      "ma60": 1392.58,
+      "pct_change": 1.06,
+      "volatility_20": 8.68
+    },
+    {
+      "date": "2025-07-08",
+      "usd_krw": 1373.2,
+      "ma20": 1365.82,
+      "ma60": 1390.82,
+      "pct_change": -0.28,
+      "volatility_20": 8.83
+    },
+    {
+      "date": "2025-07-09",
+      "usd_krw": 1375.2,
+      "ma20": 1366.04,
+      "ma60": 1389.21,
+      "pct_change": 0.15,
+      "volatility_20": 9.01
+    },
+    {
+      "date": "2025-07-10",
+      "usd_krw": 1373.9,
+      "ma20": 1366.88,
+      "ma60": 1387.85,
+      "pct_change": -0.09,
+      "volatility_20": 8.92
+    },
+    {
+      "date": "2025-07-11",
+      "usd_krw": 1375.8,
+      "ma20": 1367.5,
+      "ma60": 1387.09,
+      "pct_change": 0.14,
+      "volatility_20": 9.1
+    },
+    {
+      "date": "2025-07-14",
+      "usd_krw": 1383.0,
+      "ma20": 1368.74,
+      "ma60": 1386.43,
+      "pct_change": 0.52,
+      "volatility_20": 9.44
+    },
+    {
+      "date": "2025-07-15",
+      "usd_krw": 1388.2,
+      "ma20": 1369.45,
+      "ma60": 1385.78,
+      "pct_change": 0.38,
+      "volatility_20": 10.35
+    },
+    {
+      "date": "2025-07-16",
+      "usd_krw": 1387.0,
+      "ma20": 1370.18,
+      "ma60": 1385.3,
+      "pct_change": -0.09,
+      "volatility_20": 11.06
+    },
+    {
+      "date": "2025-07-17",
+      "usd_krw": 1392.2,
+      "ma20": 1370.8,
+      "ma60": 1384.9,
+      "pct_change": 0.37,
+      "volatility_20": 11.94
+    },
+    {
+      "date": "2025-07-18",
+      "usd_krw": 1391.6,
+      "ma20": 1371.68,
+      "ma60": 1384.36,
+      "pct_change": -0.04,
+      "volatility_20": 12.8
+    },
+    {
+      "date": "2025-07-21",
+      "usd_krw": 1382.2,
+      "ma20": 1371.7,
+      "ma60": 1383.71,
+      "pct_change": -0.68,
+      "volatility_20": 12.81
+    },
+    {
+      "date": "2025-07-22",
+      "usd_krw": 1381.0,
+      "ma20": 1372.68,
+      "ma60": 1382.99,
+      "pct_change": -0.09,
+      "volatility_20": 12.73
+    },
+    {
+      "date": "2025-07-23",
+      "usd_krw": 1375.8,
+      "ma20": 1373.4,
+      "ma60": 1382.13,
+      "pct_change": -0.38,
+      "volatility_20": 12.45
+    },
+    {
+      "date": "2025-07-24",
+      "usd_krw": 1371.3,
+      "ma20": 1374.32,
+      "ma60": 1381.11,
+      "pct_change": -0.33,
+      "volatility_20": 11.5
+    },
+    {
+      "date": "2025-07-25",
+      "usd_krw": 1383.7,
+      "ma20": 1375.44,
+      "ma60": 1380.18,
+      "pct_change": 0.9,
+      "volatility_20": 11.26
+    },
+    {
+      "date": "2025-07-28",
+      "usd_krw": 1389.1,
+      "ma20": 1377.14,
+      "ma60": 1379.38,
+      "pct_change": 0.39,
+      "volatility_20": 10.59
+    },
+    {
+      "date": "2025-07-29",
+      "usd_krw": 1389.7,
+      "ma20": 1378.67,
+      "ma60": 1378.68,
+      "pct_change": 0.04,
+      "volatility_20": 10.03
+    },
+    {
+      "date": "2025-07-30",
+      "usd_krw": 1391.8,
+      "ma20": 1380.48,
+      "ma60": 1378.09,
+      "pct_change": 0.15,
+      "volatility_20": 8.83
+    },
+    {
+      "date": "2025-07-31",
+      "usd_krw": 1392.0,
+      "ma20": 1381.81,
+      "ma60": 1377.93,
+      "pct_change": 0.01,
+      "volatility_20": 8.45
+    },
+    {
+      "date": "2025-08-01",
+      "usd_krw": 1388.3,
+      "ma20": 1383.1,
+      "ma60": 1377.84,
+      "pct_change": -0.27,
+      "volatility_20": 7.22
+    },
+    {
+      "date": "2025-08-04",
+      "usd_krw": 1386.5,
+      "ma20": 1383.58,
+      "ma60": 1377.5,
+      "pct_change": -0.13,
+      "volatility_20": 7.11
+    },
+    {
+      "date": "2025-08-05",
+      "usd_krw": 1386.3,
+      "ma20": 1384.23,
+      "ma60": 1377.3,
+      "pct_change": -0.01,
+      "volatility_20": 6.7
+    },
+    {
+      "date": "2025-08-06",
+      "usd_krw": 1386.4,
+      "ma20": 1384.79,
+      "ma60": 1376.79,
+      "pct_change": 0.01,
+      "volatility_20": 6.36
+    },
+    {
+      "date": "2025-08-07",
+      "usd_krw": 1386.0,
+      "ma20": 1385.4,
+      "ma60": 1376.29,
+      "pct_change": -0.03,
+      "volatility_20": 5.83
+    },
+    {
+      "date": "2025-08-08",
+      "usd_krw": 1387.5,
+      "ma20": 1385.98,
+      "ma60": 1376.0,
+      "pct_change": 0.11,
+      "volatility_20": 5.38
+    },
+    {
+      "date": "2025-08-11",
+      "usd_krw": 1390.5,
+      "ma20": 1386.36,
+      "ma60": 1375.88,
+      "pct_change": 0.22,
+      "volatility_20": 5.43
+    },
+    {
+      "date": "2025-08-12",
+      "usd_krw": 1384.4,
+      "ma20": 1386.16,
+      "ma60": 1375.62,
+      "pct_change": -0.44,
+      "volatility_20": 5.42
+    },
+    {
+      "date": "2025-08-13",
+      "usd_krw": 1379.4,
+      "ma20": 1385.78,
+      "ma60": 1375.46,
+      "pct_change": -0.36,
+      "volatility_20": 5.62
+    },
+    {
+      "date": "2025-08-14",
+      "usd_krw": 1389.5,
+      "ma20": 1385.65,
+      "ma60": 1375.38,
+      "pct_change": 0.73,
+      "volatility_20": 5.49
+    },
+    {
+      "date": "2025-08-18",
+      "usd_krw": 1388.1,
+      "ma20": 1385.48,
+      "ma60": 1375.65,
+      "pct_change": -0.1,
+      "volatility_20": 5.35
+    },
+    {
+      "date": "2025-08-19",
+      "usd_krw": 1392.0,
+      "ma20": 1385.96,
+      "ma60": 1375.81,
+      "pct_change": 0.28,
+      "volatility_20": 5.48
+    },
+    {
+      "date": "2025-08-20",
+      "usd_krw": 1397.0,
+      "ma20": 1386.76,
+      "ma60": 1376.32,
+      "pct_change": 0.36,
+      "volatility_20": 5.87
+    },
+    {
+      "date": "2025-08-21",
+      "usd_krw": 1398.8,
+      "ma20": 1387.92,
+      "ma60": 1376.79,
+      "pct_change": 0.13,
+      "volatility_20": 5.86
+    },
+    {
+      "date": "2025-08-22",
+      "usd_krw": 1383.5,
+      "ma20": 1388.52,
+      "ma60": 1376.9,
+      "pct_change": -1.09,
+      "volatility_20": 4.52
+    },
+    {
+      "date": "2025-08-25",
+      "usd_krw": 1390.3,
+      "ma20": 1388.86,
+      "ma60": 1377.14,
+      "pct_change": 0.49,
+      "volatility_20": 4.39
+    },
+    {
+      "date": "2025-08-26",
+      "usd_krw": 1393.2,
+      "ma20": 1389.06,
+      "ma60": 1377.51,
+      "pct_change": 0.21,
+      "volatility_20": 4.5
+    },
+    {
+      "date": "2025-08-27",
+      "usd_krw": 1394.2,
+      "ma20": 1389.28,
+      "ma60": 1377.7,
+      "pct_change": 0.07,
+      "volatility_20": 4.64
+    },
+    {
+      "date": "2025-08-28",
+      "usd_krw": 1384.8,
+      "ma20": 1388.94,
+      "ma60": 1377.82,
+      "pct_change": -0.67,
+      "volatility_20": 4.71
+    },
+    {
+      "date": "2025-08-29",
+      "usd_krw": 1389.8,
+      "ma20": 1388.82,
+      "ma60": 1378.25,
+      "pct_change": 0.36,
+      "volatility_20": 4.66
+    },
+    {
+      "date": "2025-09-01",
+      "usd_krw": 1394.0,
+      "ma20": 1389.11,
+      "ma60": 1378.88,
+      "pct_change": 0.3,
+      "volatility_20": 4.8
+    },
+    {
+      "date": "2025-09-02",
+      "usd_krw": 1395.9,
+      "ma20": 1389.58,
+      "ma60": 1379.57,
+      "pct_change": 0.14,
+      "volatility_20": 4.98
+    },
+    {
+      "date": "2025-09-03",
+      "usd_krw": 1389.7,
+      "ma20": 1389.75,
+      "ma60": 1379.94,
+      "pct_change": -0.44,
+      "volatility_20": 4.92
+    },
+    {
+      "date": "2025-09-04",
+      "usd_krw": 1395.3,
+      "ma20": 1390.2,
+      "ma60": 1380.34,
+      "pct_change": 0.4,
+      "volatility_20": 5.01
+    },
+    {
+      "date": "2025-09-05",
+      "usd_krw": 1388.4,
+      "ma20": 1390.32,
+      "ma60": 1380.86,
+      "pct_change": -0.49,
+      "volatility_20": 4.93
+    },
+    {
+      "date": "2025-09-08",
+      "usd_krw": 1387.0,
+      "ma20": 1390.29,
+      "ma60": 1381.26,
+      "pct_change": -0.1,
+      "volatility_20": 4.94
+    },
+    {
+      "date": "2025-09-09",
+      "usd_krw": 1387.8,
+      "ma20": 1390.16,
+      "ma60": 1381.75,
+      "pct_change": 0.06,
+      "volatility_20": 4.97
+    },
+    {
+      "date": "2025-09-10",
+      "usd_krw": 1388.5,
+      "ma20": 1390.36,
+      "ma60": 1381.99,
+      "pct_change": 0.05,
+      "volatility_20": 4.81
+    },
+    {
+      "date": "2025-09-11",
+      "usd_krw": 1390.7,
+      "ma20": 1390.92,
+      "ma60": 1382.3,
+      "pct_change": 0.16,
+      "volatility_20": 4.06
+    },
+    {
+      "date": "2025-09-12",
+      "usd_krw": 1395.4,
+      "ma20": 1391.22,
+      "ma60": 1382.56,
+      "pct_change": 0.34,
+      "volatility_20": 4.16
+    },
+    {
+      "date": "2025-09-15",
+      "usd_krw": 1386.6,
+      "ma20": 1391.14,
+      "ma60": 1382.77,
+      "pct_change": -0.63,
+      "volatility_20": 4.23
+    },
+    {
+      "date": "2025-09-16",
+      "usd_krw": 1379.5,
+      "ma20": 1390.52,
+      "ma60": 1382.73,
+      "pct_change": -0.51,
+      "volatility_20": 4.96
+    },
+    {
+      "date": "2025-09-17",
+      "usd_krw": 1376.3,
+      "ma20": 1389.48,
+      "ma60": 1382.98,
+      "pct_change": -0.23,
+      "volatility_20": 5.65
+    },
+    {
+      "date": "2025-09-18",
+      "usd_krw": 1389.0,
+      "ma20": 1389.0,
+      "ma60": 1383.44,
+      "pct_change": 0.92,
+      "volatility_20": 5.21
+    },
+    {
+      "date": "2025-09-19",
+      "usd_krw": 1397.0,
+      "ma20": 1389.67,
+      "ma60": 1384.17,
+      "pct_change": 0.58,
+      "volatility_20": 5.33
+    },
+    {
+      "date": "2025-09-22",
+      "usd_krw": 1391.5,
+      "ma20": 1389.73,
+      "ma60": 1384.68,
+      "pct_change": -0.39,
+      "volatility_20": 5.34
+    },
+    {
+      "date": "2025-09-23",
+      "usd_krw": 1394.0,
+      "ma20": 1389.77,
+      "ma60": 1385.32,
+      "pct_change": 0.18,
+      "volatility_20": 5.37
+    },
+    {
+      "date": "2025-09-24",
+      "usd_krw": 1403.8,
+      "ma20": 1390.25,
+      "ma60": 1386.07,
+      "pct_change": 0.7,
+      "volatility_20": 6.16
+    },
+    {
+      "date": "2025-09-25",
+      "usd_krw": 1409.3,
+      "ma20": 1391.48,
+      "ma60": 1386.96,
+      "pct_change": 0.39,
+      "volatility_20": 7.34
+    },
+    {
+      "date": "2025-09-26",
+      "usd_krw": 1409.7,
+      "ma20": 1392.47,
+      "ma60": 1387.7,
+      "pct_change": 0.03,
+      "volatility_20": 8.38
+    },
+    {
+      "date": "2025-09-29",
+      "usd_krw": 1400.4,
+      "ma20": 1392.79,
+      "ma60": 1388.33,
+      "pct_change": -0.66,
+      "volatility_20": 8.56
+    },
+    {
+      "date": "2025-09-30",
+      "usd_krw": 1405.0,
+      "ma20": 1393.24,
+      "ma60": 1388.8,
+      "pct_change": 0.33,
+      "volatility_20": 8.97
+    },
+    {
+      "date": "2025-10-01",
+      "usd_krw": 1403.0,
+      "ma20": 1393.91,
+      "ma60": 1389.3,
+      "pct_change": -0.14,
+      "volatility_20": 9.18
+    },
+    {
+      "date": "2025-10-02",
+      "usd_krw": 1407.0,
+      "ma20": 1394.5,
+      "ma60": 1389.83,
+      "pct_change": 0.29,
+      "volatility_20": 9.64
+    },
+    {
+      "date": "2025-10-10",
+      "usd_krw": 1427.0,
+      "ma20": 1396.42,
+      "ma60": 1390.71,
+      "pct_change": 1.42,
+      "volatility_20": 11.94
+    },
+    {
+      "date": "2025-10-13",
+      "usd_krw": 1424.5,
+      "ma20": 1398.3,
+      "ma60": 1391.52,
+      "pct_change": -0.18,
+      "volatility_20": 13.25
+    },
+    {
+      "date": "2025-10-14",
+      "usd_krw": 1428.1,
+      "ma20": 1400.32,
+      "ma60": 1392.28,
+      "pct_change": 0.25,
+      "volatility_20": 14.57
+    },
+    {
+      "date": "2025-10-15",
+      "usd_krw": 1422.6,
+      "ma20": 1402.02,
+      "ma60": 1392.85,
+      "pct_change": -0.39,
+      "volatility_20": 15.1
+    },
+    {
+      "date": "2025-10-16",
+      "usd_krw": 1417.9,
+      "ma20": 1403.38,
+      "ma60": 1393.36,
+      "pct_change": -0.33,
+      "volatility_20": 15.25
+    },
+    {
+      "date": "2025-10-17",
+      "usd_krw": 1422.2,
+      "ma20": 1404.72,
+      "ma60": 1393.86,
+      "pct_change": 0.3,
+      "volatility_20": 15.69
+    },
+    {
+      "date": "2025-10-20",
+      "usd_krw": 1420.8,
+      "ma20": 1406.43,
+      "ma60": 1394.35,
+      "pct_change": -0.1,
+      "volatility_20": 15.47
+    },
+    {
+      "date": "2025-10-21",
+      "usd_krw": 1432.0,
+      "ma20": 1409.05,
+      "ma60": 1395.18,
+      "pct_change": 0.79,
+      "volatility_20": 15.11
+    },
+    {
+      "date": "2025-10-22",
+      "usd_krw": 1431.0,
+      "ma20": 1411.79,
+      "ma60": 1396.01,
+      "pct_change": -0.07,
+      "volatility_20": 13.76
+    },
+    {
+      "date": "2025-10-23",
+      "usd_krw": 1437.4,
+      "ma20": 1414.21,
+      "ma60": 1397.04,
+      "pct_change": 0.45,
+      "volatility_20": 13.8
+    },
+    {
+      "date": "2025-10-24",
+      "usd_krw": 1439.4,
+      "ma20": 1416.33,
+      "ma60": 1398.18,
+      "pct_change": 0.14,
+      "volatility_20": 14.26
+    },
+    {
+      "date": "2025-10-27",
+      "usd_krw": 1433.4,
+      "ma20": 1418.42,
+      "ma60": 1399.0,
+      "pct_change": -0.42,
+      "volatility_20": 13.48
+    },
+    {
+      "date": "2025-10-28",
+      "usd_krw": 1432.7,
+      "ma20": 1420.36,
+      "ma60": 1399.73,
+      "pct_change": -0.05,
+      "volatility_20": 12.53
+    },
+    {
+      "date": "2025-10-29",
+      "usd_krw": 1421.0,
+      "ma20": 1421.22,
+      "ma60": 1400.25,
+      "pct_change": -0.82,
+      "volatility_20": 11.91
+    },
+    {
+      "date": "2025-10-30",
+      "usd_krw": 1435.0,
+      "ma20": 1422.5,
+      "ma60": 1400.97,
+      "pct_change": 0.99,
+      "volatility_20": 11.94
+    },
+    {
+      "date": "2025-10-31",
+      "usd_krw": 1433.0,
+      "ma20": 1423.67,
+      "ma60": 1401.66,
+      "pct_change": -0.14,
+      "volatility_20": 11.76
+    },
+    {
+      "date": "2025-11-03",
+      "usd_krw": 1431.3,
+      "ma20": 1425.22,
+      "ma60": 1402.37,
+      "pct_change": -0.12,
+      "volatility_20": 10.51
+    },
+    {
+      "date": "2025-11-04",
+      "usd_krw": 1440.6,
+      "ma20": 1427.0,
+      "ma60": 1403.27,
+      "pct_change": 0.65,
+      "volatility_20": 9.9
+    },
+    {
+      "date": "2025-11-05",
+      "usd_krw": 1441.8,
+      "ma20": 1428.94,
+      "ma60": 1404.2,
+      "pct_change": 0.08,
+      "volatility_20": 8.68
+    },
+    {
+      "date": "2025-11-06",
+      "usd_krw": 1449.3,
+      "ma20": 1431.05,
+      "ma60": 1405.25,
+      "pct_change": 0.52,
+      "volatility_20": 8.19
+    },
+    {
+      "date": "2025-11-07",
+      "usd_krw": 1461.5,
+      "ma20": 1432.78,
+      "ma60": 1406.5,
+      "pct_change": 0.84,
+      "volatility_20": 10.58
+    },
+    {
+      "date": "2025-11-10",
+      "usd_krw": 1456.8,
+      "ma20": 1434.39,
+      "ma60": 1407.66,
+      "pct_change": -0.32,
+      "volatility_20": 11.66
+    },
+    {
+      "date": "2025-11-11",
+      "usd_krw": 1463.4,
+      "ma20": 1436.16,
+      "ma60": 1408.88,
+      "pct_change": 0.45,
+      "volatility_20": 13.22
+    },
+    {
+      "date": "2025-11-12",
+      "usd_krw": 1468.9,
+      "ma20": 1438.47,
+      "ma60": 1410.28,
+      "pct_change": 0.38,
+      "volatility_20": 14.7
+    },
+    {
+      "date": "2025-11-13",
+      "usd_krw": 1466.0,
+      "ma20": 1440.88,
+      "ma60": 1411.73,
+      "pct_change": -0.2,
+      "volatility_20": 15.08
+    },
+    {
+      "date": "2025-11-14",
+      "usd_krw": 1453.1,
+      "ma20": 1442.42,
+      "ma60": 1412.79,
+      "pct_change": -0.88,
+      "volatility_20": 14.65
+    },
+    {
+      "date": "2025-11-17",
+      "usd_krw": 1460.4,
+      "ma20": 1444.4,
+      "ma60": 1413.99,
+      "pct_change": 0.5,
+      "volatility_20": 14.24
+    },
+    {
+      "date": "2025-11-18",
+      "usd_krw": 1461.9,
+      "ma20": 1445.9,
+      "ma60": 1415.16,
+      "pct_change": 0.1,
+      "volatility_20": 14.44
+    },
+    {
+      "date": "2025-11-19",
+      "usd_krw": 1468.5,
+      "ma20": 1447.77,
+      "ma60": 1416.35,
+      "pct_change": 0.45,
+      "volatility_20": 14.83
+    },
+    {
+      "date": "2025-11-20",
+      "usd_krw": 1472.2,
+      "ma20": 1449.51,
+      "ma60": 1417.57,
+      "pct_change": 0.25,
+      "volatility_20": 15.57
+    },
+    {
+      "date": "2025-11-21",
+      "usd_krw": 1471.5,
+      "ma20": 1451.12,
+      "ma60": 1419.04,
+      "pct_change": -0.05,
+      "volatility_20": 16.12
+    },
+    {
+      "date": "2025-11-24",
+      "usd_krw": 1476.5,
+      "ma20": 1453.27,
+      "ma60": 1420.48,
+      "pct_change": 0.34,
+      "volatility_20": 16.51
+    },
+    {
+      "date": "2025-11-25",
+      "usd_krw": 1469.3,
+      "ma20": 1455.1,
+      "ma60": 1421.74,
+      "pct_change": -0.49,
+      "volatility_20": 16.13
+    },
+    {
+      "date": "2025-11-26",
+      "usd_krw": 1468.3,
+      "ma20": 1457.46,
+      "ma60": 1422.98,
+      "pct_change": -0.07,
+      "volatility_20": 14.22
+    },
+    {
+      "date": "2025-11-27",
+      "usd_krw": 1462.7,
+      "ma20": 1458.85,
+      "ma60": 1424.28,
+      "pct_change": -0.38,
+      "volatility_20": 13.23
+    },
+    {
+      "date": "2025-11-28",
+      "usd_krw": 1466.8,
+      "ma20": 1460.54,
+      "ma60": 1425.56,
+      "pct_change": 0.28,
+      "volatility_20": 11.84
+    },
+    {
+      "date": "2025-12-01",
+      "usd_krw": 1468.0,
+      "ma20": 1462.38,
+      "ma60": 1426.79,
+      "pct_change": 0.08,
+      "volatility_20": 9.73
+    },
+    {
+      "date": "2025-12-02",
+      "usd_krw": 1469.4,
+      "ma20": 1463.82,
+      "ma60": 1428.02,
+      "pct_change": 0.1,
+      "volatility_20": 8.37
+    },
+    {
+      "date": "2025-12-03",
+      "usd_krw": 1466.9,
+      "ma20": 1465.07,
+      "ma60": 1429.3,
+      "pct_change": -0.17,
+      "volatility_20": 6.59
+    },
+    {
+      "date": "2025-12-04",
+      "usd_krw": 1473.6,
+      "ma20": 1466.28,
+      "ma60": 1430.61,
+      "pct_change": 0.46,
+      "volatility_20": 5.71
+    },
+    {
+      "date": "2025-12-05",
+      "usd_krw": 1473.3,
+      "ma20": 1466.88,
+      "ma60": 1432.02,
+      "pct_change": -0.02,
+      "volatility_20": 5.8
+    },
+    {
+      "date": "2025-12-08",
+      "usd_krw": 1469.8,
+      "ma20": 1467.52,
+      "ma60": 1433.4,
+      "pct_change": -0.24,
+      "volatility_20": 5.32
+    },
+    {
+      "date": "2025-12-09",
+      "usd_krw": 1469.9,
+      "ma20": 1467.85,
+      "ma60": 1434.77,
+      "pct_change": 0.01,
+      "volatility_20": 5.25
+    },
+    {
+      "date": "2025-12-10",
+      "usd_krw": 1470.8,
+      "ma20": 1467.95,
+      "ma60": 1436.14,
+      "pct_change": 0.06,
+      "volatility_20": 5.29
+    },
+    {
+      "date": "2025-12-11",
+      "usd_krw": 1471.9,
+      "ma20": 1468.24,
+      "ma60": 1437.5,
+      "pct_change": 0.07,
+      "volatility_20": 5.34
+    },
+    {
+      "date": "2025-12-12",
+      "usd_krw": 1477.0,
+      "ma20": 1469.44,
+      "ma60": 1438.86,
+      "pct_change": 0.35,
+      "volatility_20": 4.36
+    },
+    {
+      "date": "2025-12-15",
+      "usd_krw": 1468.6,
+      "ma20": 1469.84,
+      "ma60": 1440.22,
+      "pct_change": -0.57,
+      "volatility_20": 3.82
+    },
+    {
+      "date": "2025-12-16",
+      "usd_krw": 1473.0,
+      "ma20": 1470.4,
+      "ma60": 1441.78,
+      "pct_change": 0.3,
+      "volatility_20": 3.38
+    },
+    {
+      "date": "2025-12-17",
+      "usd_krw": 1474.5,
+      "ma20": 1470.7,
+      "ma60": 1443.42,
+      "pct_change": 0.1,
+      "volatility_20": 3.47
+    },
+    {
+      "date": "2025-12-18",
+      "usd_krw": 1473.1,
+      "ma20": 1470.74,
+      "ma60": 1444.82,
+      "pct_change": -0.09,
+      "volatility_20": 3.5
+    },
+    {
+      "date": "2025-12-19",
+      "usd_krw": 1478.0,
+      "ma20": 1471.07,
+      "ma60": 1446.17,
+      "pct_change": 0.33,
+      "volatility_20": 3.85
+    },
+    {
+      "date": "2025-12-22",
+      "usd_krw": 1481.0,
+      "ma20": 1471.29,
+      "ma60": 1447.66,
+      "pct_change": 0.2,
+      "volatility_20": 4.29
+    },
+    {
+      "date": "2025-12-23",
+      "usd_krw": 1481.0,
+      "ma20": 1471.88,
+      "ma60": 1449.11,
+      "pct_change": 0.0,
+      "volatility_20": 4.78
+    },
+    {
+      "date": "2025-12-24",
+      "usd_krw": 1445.7,
+      "ma20": 1470.75,
+      "ma60": 1449.81,
+      "pct_change": -2.38,
+      "volatility_20": 7.54
+    },
+    {
+      "date": "2025-12-26",
+      "usd_krw": 1442.2,
+      "ma20": 1469.72,
+      "ma60": 1450.36,
+      "pct_change": -0.24,
+      "volatility_20": 9.76
+    },
+    {
+      "date": "2025-12-29",
+      "usd_krw": 1434.1,
+      "ma20": 1468.09,
+      "ma60": 1450.77,
+      "pct_change": -0.56,
+      "volatility_20": 12.6
+    },
+    {
+      "date": "2025-12-30",
+      "usd_krw": 1439.5,
+      "ma20": 1466.66,
+      "ma60": 1451.42,
+      "pct_change": 0.38,
+      "volatility_20": 14.13
+    },
+    {
+      "date": "2025-12-31",
+      "usd_krw": null,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": null,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-02",
+      "usd_krw": 1444.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": null,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-05",
+      "usd_krw": 1445.6,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.06,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-06",
+      "usd_krw": 1447.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.1,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-07",
+      "usd_krw": 1447.6,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.03,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-08",
+      "usd_krw": 1451.8,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.29,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-09",
+      "usd_krw": 1459.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.5,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-12",
+      "usd_krw": 1468.8,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.67,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-13",
+      "usd_krw": 1478.8,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.68,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-14",
+      "usd_krw": 1464.0,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -1.0,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-15",
+      "usd_krw": 1469.2,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.36,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-16",
+      "usd_krw": 1474.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.36,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-19",
+      "usd_krw": 1473.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.09,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-20",
+      "usd_krw": 1476.7,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": 0.24,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-21",
+      "usd_krw": 1465.9,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.73,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-22",
+      "usd_krw": 1464.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.1,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-23",
+      "usd_krw": 1462.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.14,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-26",
+      "usd_krw": 1443.9,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -1.27,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-27",
+      "usd_krw": 1437.5,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.44,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-28",
+      "usd_krw": 1436.1,
+      "ma20": null,
+      "ma60": null,
+      "pct_change": -0.1,
+      "volatility_20": null
+    },
+    {
+      "date": "2026-01-29",
+      "usd_krw": 1434.0,
+      "ma20": 1457.26,
+      "ma60": null,
+      "pct_change": -0.15,
+      "volatility_20": 14.41
+    },
+    {
+      "date": "2026-01-30",
+      "usd_krw": 1443.5,
+      "ma20": 1457.21,
+      "ma60": null,
+      "pct_change": 0.66,
+      "volatility_20": 14.47
+    },
+    {
+      "date": "2026-02-02",
+      "usd_krw": 1451.5,
+      "ma20": 1457.5,
+      "ma60": null,
+      "pct_change": 0.55,
+      "volatility_20": 14.28
+    },
+    {
+      "date": "2026-02-03",
+      "usd_krw": 1446.6,
+      "ma20": 1457.48,
+      "ma60": null,
+      "pct_change": -0.34,
+      "volatility_20": 14.3
+    },
+    {
+      "date": "2026-02-04",
+      "usd_krw": 1459.5,
+      "ma20": 1458.07,
+      "ma60": null,
+      "pct_change": 0.89,
+      "volatility_20": 14.11
+    },
+    {
+      "date": "2026-02-05",
+      "usd_krw": 1463.7,
+      "ma20": 1458.66,
+      "ma60": null,
+      "pct_change": 0.29,
+      "volatility_20": 14.09
+    },
+    {
+      "date": "2026-02-06",
+      "usd_krw": 1463.0,
+      "ma20": 1458.86,
+      "ma60": null,
+      "pct_change": -0.05,
+      "volatility_20": 14.12
+    },
+    {
+      "date": "2026-02-09",
+      "usd_krw": 1457.7,
+      "ma20": 1458.31,
+      "ma60": null,
+      "pct_change": -0.36,
+      "volatility_20": 13.92
+    },
+    {
+      "date": "2026-02-10",
+      "usd_krw": 1457.2,
+      "ma20": 1457.23,
+      "ma60": null,
+      "pct_change": -0.03,
+      "volatility_20": 13.06
+    },
+    {
+      "date": "2026-02-11",
+      "usd_krw": 1447.0,
+      "ma20": 1456.38,
+      "ma60": null,
+      "pct_change": -0.7,
+      "volatility_20": 13.15
+    },
+    {
+      "date": "2026-02-12",
+      "usd_krw": 1438.6,
+      "ma20": 1454.85,
+      "ma60": null,
+      "pct_change": -0.58,
+      "volatility_20": 13.36
+    },
+    {
+      "date": "2026-02-13",
+      "usd_krw": 1444.6,
+      "ma20": 1453.36,
+      "ma60": null,
+      "pct_change": 0.42,
+      "volatility_20": 12.7
+    },
+    {
+      "date": "2026-02-19",
+      "usd_krw": 1448.9,
+      "ma20": 1452.14,
+      "ma60": null,
+      "pct_change": 0.3,
+      "volatility_20": 11.85
+    },
+    {
+      "date": "2026-02-20",
+      "usd_krw": 1446.6,
+      "ma20": 1450.64,
+      "ma60": null,
+      "pct_change": -0.16,
+      "volatility_20": 10.38
+    },
+    {
+      "date": "2026-02-23",
+      "usd_krw": 1442.9,
+      "ma20": 1449.49,
+      "ma60": null,
+      "pct_change": -0.26,
+      "volatility_20": 9.87
+    },
+    {
+      "date": "2026-02-24",
+      "usd_krw": 1441.0,
+      "ma20": 1448.32,
+      "ma60": null,
+      "pct_change": -0.13,
+      "volatility_20": 9.37
+    },
+    {
+      "date": "2026-02-25",
+      "usd_krw": 1427.8,
+      "ma20": 1446.58,
+      "ma60": null,
+      "pct_change": -0.92,
+      "volatility_20": 9.81
+    },
+    {
+      "date": "2026-02-26",
+      "usd_krw": 1433.5,
+      "ma20": 1446.06,
+      "ma60": null,
+      "pct_change": 0.4,
+      "volatility_20": 10.23
+    },
+    {
+      "date": "2026-02-27",
+      "usd_krw": 1440.0,
+      "ma20": 1446.18,
+      "ma60": null,
+      "pct_change": 0.45,
+      "volatility_20": 10.13
+    },
+    {
+      "date": "2026-03-03",
+      "usd_krw": 1485.7,
+      "ma20": 1448.66,
+      "ma60": null,
+      "pct_change": 3.17,
+      "volatility_20": 13.15
+    },
+    {
+      "date": "2026-03-04",
+      "usd_krw": 1462.9,
+      "ma20": 1450.11,
+      "ma60": null,
+      "pct_change": -1.53,
+      "volatility_20": 13.04
+    },
+    {
+      "date": "2026-03-05",
+      "usd_krw": 1482.2,
+      "ma20": 1452.04,
+      "ma60": null,
+      "pct_change": 1.32,
+      "volatility_20": 14.77
+    },
+    {
+      "date": "2026-03-06",
+      "usd_krw": 1481.6,
+      "ma20": 1453.55,
+      "ma60": null,
+      "pct_change": -0.04,
+      "volatility_20": 16.18
+    },
+    {
+      "date": "2026-03-09",
+      "usd_krw": 1473.7,
+      "ma20": 1454.9,
+      "ma60": null,
+      "pct_change": -0.53,
+      "volatility_20": 16.69
+    },
+    {
+      "date": "2026-03-10",
+      "usd_krw": 1465.7,
+      "ma20": 1455.22,
+      "ma60": null,
+      "pct_change": -0.54,
+      "volatility_20": 16.84
+    },
+    {
+      "date": "2026-03-11",
+      "usd_krw": 1477.0,
+      "ma20": 1455.88,
+      "ma60": null,
+      "pct_change": 0.77,
+      "volatility_20": 17.44
+    },
+    {
+      "date": "2026-03-12",
+      "usd_krw": 1488.5,
+      "ma20": 1457.16,
+      "ma60": null,
+      "pct_change": 0.78,
+      "volatility_20": 18.86
+    },
+    {
+      "date": "2026-03-13",
+      "usd_krw": 1497.5,
+      "ma20": 1459.14,
+      "ma60": null,
+      "pct_change": 0.6,
+      "volatility_20": 20.91
+    },
+    {
+      "date": "2026-03-16",
+      "usd_krw": 1491.9,
+      "ma20": 1460.88,
+      "ma60": null,
+      "pct_change": -0.37,
+      "volatility_20": 22.14
+    },
+    {
+      "date": "2026-03-17",
+      "usd_krw": 1488.4,
+      "ma20": 1462.95,
+      "ma60": null,
+      "pct_change": -0.23,
+      "volatility_20": 22.71
+    },
+    {
+      "date": "2026-03-18",
+      "usd_krw": 1500.7,
+      "ma20": 1466.05,
+      "ma60": null,
+      "pct_change": 0.83,
+      "volatility_20": 23.44
+    },
+    {
+      "date": "2026-03-19",
+      "usd_krw": 1495.0,
+      "ma20": 1468.58,
+      "ma60": null,
+      "pct_change": -0.38,
+      "volatility_20": 23.72
+    },
+    {
+      "date": "2026-03-20",
+      "usd_krw": 1504.7,
+      "ma20": 1471.36,
+      "ma60": null,
+      "pct_change": 0.65,
+      "volatility_20": 24.55
+    },
+    {
+      "date": "2026-03-23",
+      "usd_krw": 1486.7,
+      "ma20": 1473.37,
+      "ma60": null,
+      "pct_change": -1.2,
+      "volatility_20": 24.05
+    },
+    {
+      "date": "2026-03-24",
+      "usd_krw": 1499.9,
+      "ma20": 1476.22,
+      "ma60": null,
+      "pct_change": 0.89,
+      "volatility_20": 23.62
+    },
+    {
+      "date": "2026-03-25",
+      "usd_krw": 1501.7,
+      "ma20": 1479.26,
+      "ma60": null,
+      "pct_change": 0.12,
+      "volatility_20": 22.74
+    },
+    {
+      "date": "2026-03-26",
+      "usd_krw": 1508.0,
+      "ma20": 1483.26,
+      "ma60": null,
+      "pct_change": 0.42,
+      "volatility_20": 20.11
+    },
+    {
+      "date": "2026-03-27",
+      "usd_krw": 1511.4,
+      "ma20": 1487.16,
+      "ma60": null,
+      "pct_change": 0.23,
+      "volatility_20": 17.31
+    },
+    {
+      "date": "2026-03-30",
+      "usd_krw": 1518.2,
+      "ma20": 1491.07,
+      "ma60": null,
+      "pct_change": 0.45,
+      "volatility_20": 14.74
+    },
+    {
+      "date": "2026-03-31",
+      "usd_krw": 1517.0,
+      "ma20": 1492.64,
+      "ma60": null,
+      "pct_change": -0.08,
+      "volatility_20": 15.77
+    },
+    {
+      "date": "2026-04-01",
+      "usd_krw": 1513.3,
+      "ma20": 1495.16,
+      "ma60": 1467.51,
+      "pct_change": -0.24,
+      "volatility_20": 14.76
+    },
+    {
+      "date": "2026-04-02",
+      "usd_krw": 1510.6,
+      "ma20": 1496.58,
+      "ma60": 1468.61,
+      "pct_change": -0.18,
+      "volatility_20": 14.82
+    },
+    {
+      "date": "2026-04-03",
+      "usd_krw": 1511.4,
+      "ma20": 1498.06,
+      "ma60": 1469.71,
+      "pct_change": 0.05,
+      "volatility_20": 14.73
+    },
+    {
+      "date": "2026-04-06",
+      "usd_krw": 1509.8,
+      "ma20": 1499.87,
+      "ma60": 1470.75,
+      "pct_change": -0.11,
+      "volatility_20": 13.77
+    },
+    {
+      "date": "2026-04-07",
+      "usd_krw": 1501.0,
+      "ma20": 1501.64,
+      "ma60": 1471.64,
+      "pct_change": -0.58,
+      "volatility_20": 11.17
+    },
+    {
+      "date": "2026-04-08",
+      "usd_krw": 1479.2,
+      "ma20": 1501.74,
+      "ma60": 1472.1,
+      "pct_change": -1.45,
+      "volatility_20": 10.93
+    },
+    {
+      "date": "2026-04-09",
+      "usd_krw": 1474.7,
+      "ma20": 1501.06,
+      "ma60": 1472.36,
+      "pct_change": -0.3,
+      "volatility_20": 12.17
+    },
+    {
+      "date": "2026-04-10",
+      "usd_krw": 1483.5,
+      "ma20": 1500.36,
+      "ma60": 1472.6,
+      "pct_change": 0.6,
+      "volatility_20": 12.77
+    },
+    {
+      "date": "2026-04-13",
+      "usd_krw": 1482.7,
+      "ma20": 1499.9,
+      "ma60": 1472.67,
+      "pct_change": -0.05,
+      "volatility_20": 13.25
+    },
+    {
+      "date": "2026-04-14",
+      "usd_krw": 1472.7,
+      "ma20": 1499.11,
+      "ma60": 1472.81,
+      "pct_change": -0.67,
+      "volatility_20": 14.38
+    },
+    {
+      "date": "2026-04-15",
+      "usd_krw": 1475.5,
+      "ma20": 1497.85,
+      "ma60": 1472.92,
+      "pct_change": 0.19,
+      "volatility_20": 15.31
+    },
+    {
+      "date": "2026-04-16",
+      "usd_krw": 1479.2,
+      "ma20": 1497.06,
+      "ma60": 1473.0,
+      "pct_change": 0.25,
+      "volatility_20": 15.86
+    },
+    {
+      "date": "2026-04-17",
+      "usd_krw": 1460.0,
+      "ma20": 1494.82,
+      "ma60": 1472.78,
+      "pct_change": -1.3,
+      "volatility_20": 17.77
+    },
+    {
+      "date": "2026-04-20",
+      "usd_krw": 1472.8,
+      "ma20": 1494.13,
+      "ma60": 1472.71,
+      "pct_change": 0.88,
+      "volatility_20": 18.36
+    },
+    {
+      "date": "2026-04-21",
+      "usd_krw": 1480.8,
+      "ma20": 1493.18,
+      "ma60": 1472.96,
+      "pct_change": 0.54,
+      "volatility_20": 18.54
+    },
+    {
+      "date": "2026-04-22",
+      "usd_krw": 1480.3,
+      "ma20": 1492.1,
+      "ma60": 1473.22,
+      "pct_change": -0.03,
+      "volatility_20": 18.64
+    },
+    {
+      "date": "2026-04-23",
+      "usd_krw": 1479.2,
+      "ma20": 1490.67,
+      "ma60": 1473.5,
+      "pct_change": -0.07,
+      "volatility_20": 18.46
+    },
+    {
+      "date": "2026-04-24",
+      "usd_krw": 1476.8,
+      "ma20": 1488.94,
+      "ma60": 1474.05,
+      "pct_change": -0.16,
+      "volatility_20": 18.03
+    },
+    {
+      "date": "2026-04-27",
+      "usd_krw": 1473.6,
+      "ma20": 1486.7,
+      "ma60": 1474.65,
+      "pct_change": -0.22,
+      "volatility_20": 16.95
+    },
+    {
+      "date": "2026-04-28",
+      "usd_krw": 1473.2,
+      "ma20": 1484.52,
+      "ma60": 1475.27,
+      "pct_change": -0.03,
+      "volatility_20": 15.6
+    },
+    {
+      "date": "2026-04-29",
+      "usd_krw": 1488.5,
+      "ma20": 1483.28,
+      "ma60": 1476.18,
+      "pct_change": 1.04,
+      "volatility_20": 14.11
+    },
+    {
+      "date": "2026-04-30",
+      "usd_krw": 1477.5,
+      "ma20": 1481.62,
+      "ma60": 1476.75,
+      "pct_change": -0.74,
+      "volatility_20": 12.6
+    },
+    {
+      "date": "2026-05-04",
+      "usd_krw": 1478.4,
+      "ma20": 1479.97,
+      "ma60": 1477.2,
+      "pct_change": 0.06,
+      "volatility_20": 10.47
+    },
+    {
+      "date": "2026-05-06",
+      "usd_krw": 1449.4,
+      "ma20": 1476.95,
+      "ma60": 1477.24,
+      "pct_change": -1.96,
+      "volatility_20": 10.12
+    },
+    {
+      "date": "2026-05-07",
+      "usd_krw": 1456.0,
+      "ma20": 1474.7,
+      "ma60": 1477.18,
+      "pct_change": 0.46,
+      "volatility_20": 9.47
+    },
+    {
+      "date": "2026-05-08",
+      "usd_krw": 1462.3,
+      "ma20": 1473.86,
+      "ma60": 1477.16,
+      "pct_change": 0.43,
+      "volatility_20": 9.8
+    },
+    {
+      "date": "2026-05-11",
+      "usd_krw": 1472.7,
+      "ma20": 1473.76,
+      "ma60": 1477.32,
+      "pct_change": 0.71,
+      "volatility_20": 9.8
+    },
+    {
+      "date": "2026-05-12",
+      "usd_krw": 1490.9,
+      "ma20": 1474.12,
+      "ma60": 1477.88,
+      "pct_change": 1.24,
+      "volatility_20": 10.31
+    },
+    {
+      "date": "2026-05-13",
+      "usd_krw": 1489.3,
+      "ma20": 1474.46,
+      "ma60": 1478.41,
+      "pct_change": -0.11,
+      "volatility_20": 10.7
+    },
+    {
+      "date": "2026-05-14",
+      "usd_krw": 1493.4,
+      "ma20": 1475.49,
+      "ma60": 1479.18,
+      "pct_change": 0.28,
+      "volatility_20": 11.49
+    },
+    {
+      "date": "2026-05-15",
+      "usd_krw": 1497.5,
+      "ma20": 1476.59,
+      "ma60": 1480.16,
+      "pct_change": 0.27,
+      "volatility_20": 12.5
+    },
+    {
+      "date": "2026-05-18",
+      "usd_krw": 1492.9,
+      "ma20": 1477.28,
+      "ma60": 1480.97,
+      "pct_change": -0.31,
+      "volatility_20": 13.02
+    },
+    {
+      "date": "2026-05-19",
+      "usd_krw": 1508.7,
+      "ma20": 1479.71,
+      "ma60": 1481.97,
+      "pct_change": 1.06,
+      "volatility_20": 14.12
+    },
+    {
+      "date": "2026-05-20",
+      "usd_krw": 1496.7,
+      "ma20": 1480.91,
+      "ma60": 1482.8,
+      "pct_change": -0.8,
+      "volatility_20": 14.51
+    },
+    {
+      "date": "2026-05-21",
+      "usd_krw": 1508.0,
+      "ma20": 1482.26,
+      "ma60": 1483.89,
+      "pct_change": 0.75,
+      "volatility_20": 15.73
+    },
+    {
+      "date": "2026-05-22",
+      "usd_krw": 1517.6,
+      "ma20": 1484.13,
+      "ma60": 1485.16,
+      "pct_change": 0.64,
+      "volatility_20": 17.58
+    },
+    {
+      "date": "2026-05-26",
+      "usd_krw": 1507.2,
+      "ma20": 1485.53,
+      "ma60": 1486.49,
+      "pct_change": -0.69,
+      "volatility_20": 18.27
+    },
+    {
+      "date": "2026-05-27",
+      "usd_krw": 1500.2,
+      "ma20": 1486.7,
+      "ma60": 1487.6,
+      "pct_change": -0.46,
+      "volatility_20": 18.43
+    },
+    {
+      "date": "2026-05-28",
+      "usd_krw": 1494.7,
+      "ma20": 1487.76,
+      "ma60": 1488.51,
+      "pct_change": -0.37,
+      "volatility_20": 18.25
+    },
+    {
+      "date": "2026-05-29",
+      "usd_krw": 1504.8,
+      "ma20": 1489.34,
+      "ma60": 1488.83,
+      "pct_change": 0.68,
+      "volatility_20": 18.29
+    },
+    {
+      "date": "2026-06-01",
+      "usd_krw": 1512.9,
+      "ma20": 1490.55,
+      "ma60": 1489.66,
+      "pct_change": 0.54,
+      "volatility_20": 19.03
+    },
+    {
+      "date": "2026-06-02",
+      "usd_krw": 1519.0,
+      "ma20": 1492.63,
+      "ma60": 1490.28,
+      "pct_change": 0.4,
+      "volatility_20": 19.78
+    },
+    {
+      "date": "2026-06-04",
+      "usd_krw": 1532.0,
+      "ma20": 1495.31,
+      "ma60": 1491.12,
+      "pct_change": 0.86,
+      "volatility_20": 21.32
+    },
+    {
+      "date": "2026-06-05",
+      "usd_krw": 1559.0,
+      "ma20": 1500.79,
+      "ma60": 1492.54,
+      "pct_change": 1.76,
+      "volatility_20": 22.92
+    },
+    {
+      "date": "2026-06-08",
+      "usd_krw": 1526.5,
+      "ma20": 1504.32,
+      "ma60": 1493.55,
+      "pct_change": -2.08,
+      "volatility_20": 21.01
+    },
+    {
+      "date": "2026-06-09",
+      "usd_krw": 1532.7,
+      "ma20": 1507.84,
+      "ma60": 1494.48,
+      "pct_change": 0.41,
+      "volatility_20": 19.44
+    },
+    {
+      "date": "2026-06-10",
+      "usd_krw": 1520.2,
+      "ma20": 1510.21,
+      "ma60": 1495.01,
+      "pct_change": -0.82,
+      "volatility_20": 17.75
+    },
+    {
+      "date": "2026-06-11",
+      "usd_krw": 1531.6,
+      "ma20": 1512.24,
+      "ma60": 1495.58,
+      "pct_change": 0.75,
+      "volatility_20": 17.76
+    },
+    {
+      "date": "2026-06-12",
+      "usd_krw": 1518.3,
+      "ma20": 1513.7,
+      "ma60": 1496.02,
+      "pct_change": -0.87,
+      "volatility_20": 16.95
+    },
+    {
+      "date": "2026-06-15",
+      "usd_krw": 1515.2,
+      "ma20": 1514.78,
+      "ma60": 1496.46,
+      "pct_change": -0.2,
+      "volatility_20": 16.26
+    },
+    {
+      "date": "2026-06-16",
+      "usd_krw": 1508.3,
+      "ma20": 1515.32,
+      "ma60": 1496.59,
+      "pct_change": -0.46,
+      "volatility_20": 15.83
+    },
+    {
+      "date": "2026-06-17",
+      "usd_krw": 1515.5,
+      "ma20": 1516.46,
+      "ma60": 1496.93,
+      "pct_change": 0.48,
+      "volatility_20": 14.93
+    },
+    {
+      "date": "2026-06-18",
+      "usd_krw": 1540.0,
+      "ma20": 1518.02,
+      "ma60": 1497.52,
+      "pct_change": 1.62,
+      "volatility_20": 15.69
+    },
+    {
+      "date": "2026-06-19",
+      "usd_krw": 1531.0,
+      "ma20": 1519.74,
+      "ma60": 1498.26,
+      "pct_change": -0.58,
+      "volatility_20": 15.1
+    },
+    {
+      "date": "2026-06-22",
+      "usd_krw": 1538.9,
+      "ma20": 1521.28,
+      "ma60": 1498.91,
+      "pct_change": 0.52,
+      "volatility_20": 15.42
+    },
+    {
+      "date": "2026-06-23",
+      "usd_krw": 1533.1,
+      "ma20": 1522.06,
+      "ma60": 1499.43,
+      "pct_change": -0.38,
+      "volatility_20": 15.61
+    },
+    {
+      "date": "2026-06-24",
+      "usd_krw": 1542.7,
+      "ma20": 1523.83,
+      "ma60": 1500.01,
+      "pct_change": 0.63,
+      "volatility_20": 15.85
+    },
+    {
+      "date": "2026-06-25",
+      "usd_krw": 1543.1,
+      "ma20": 1525.98,
+      "ma60": 1500.54,
+      "pct_change": 0.03,
+      "volatility_20": 15.38
+    },
+    {
+      "date": "2026-06-26",
+      "usd_krw": 1535.8,
+      "ma20": 1528.03,
+      "ma60": 1500.83,
+      "pct_change": -0.47,
+      "volatility_20": 13.63
+    },
+    {
+      "date": "2026-06-29",
+      "usd_krw": 1543.0,
+      "ma20": 1529.94,
+      "ma60": 1501.26,
+      "pct_change": 0.47,
+      "volatility_20": 12.85
+    },
+    {
+      "date": "2026-06-30",
+      "usd_krw": 1549.5,
+      "ma20": 1531.77,
+      "ma60": 1501.87,
+      "pct_change": 0.42,
+      "volatility_20": 12.9
+    },
+    {
+      "date": "2026-07-01",
+      "usd_krw": 1551.2,
+      "ma20": 1533.38,
+      "ma60": 1502.54,
+      "pct_change": 0.11,
+      "volatility_20": 13.23
+    },
+    {
+      "date": "2026-07-02",
+      "usd_krw": 1540.0,
+      "ma20": 1533.78,
+      "ma60": 1503.02,
+      "pct_change": -0.72,
+      "volatility_20": 13.31
+    },
+    {
+      "date": "2026-07-03",
+      "usd_krw": 1530.0,
+      "ma20": 1532.33,
+      "ma60": 1503.36,
+      "pct_change": -0.65,
+      "volatility_20": 11.92
+    },
+    {
+      "date": "2026-07-06",
+      "usd_krw": 1530.0,
+      "ma20": 1532.5,
+      "ma60": 1503.84,
+      "pct_change": 0.0,
+      "volatility_20": 11.86
+    },
+    {
+      "date": "2026-07-07",
+      "usd_krw": 1515.8,
+      "ma20": 1531.66,
+      "ma60": 1504.45,
+      "pct_change": -0.93,
+      "volatility_20": 12.43
+    },
+    {
+      "date": "2026-07-08",
+      "usd_krw": 1505.0,
+      "ma20": 1530.9,
+      "ma60": 1504.96,
+      "pct_change": -0.71,
+      "volatility_20": 13.58
+    },
+    {
+      "date": "2026-07-09",
+      "usd_krw": 1509.5,
+      "ma20": 1529.8,
+      "ma60": 1505.39,
+      "pct_change": 0.3,
+      "volatility_20": 14.4
+    },
+    {
+      "date": "2026-07-10",
+      "usd_krw": 1498.5,
+      "ma20": 1528.8,
+      "ma60": 1505.65,
+      "pct_change": -0.73,
+      "volatility_20": 15.84
+    },
+    {
+      "date": "2026-07-13",
+      "usd_krw": 1497.5,
+      "ma20": 1527.92,
+      "ma60": 1506.06,
+      "pct_change": -0.07,
+      "volatility_20": 17.08
+    },
+    {
+      "date": "2026-07-14",
+      "usd_krw": 1490.5,
+      "ma20": 1527.03,
+      "ma60": 1506.31,
+      "pct_change": -0.47,
+      "volatility_20": 18.56
+    },
+    {
+      "date": "2026-07-15",
+      "usd_krw": 1487.0,
+      "ma20": 1525.6,
+      "ma60": 1506.44,
+      "pct_change": -0.23,
+      "volatility_20": 20.49
+    },
+    {
+      "date": "2026-07-16",
+      "usd_krw": 1482.0,
+      "ma20": 1522.7,
+      "ma60": 1506.81,
+      "pct_change": -0.34,
+      "volatility_20": 22.36
+    },
+    {
+      "date": "2026-07-20",
+      "usd_krw": 1477.9,
+      "ma20": 1520.05,
+      "ma60": 1506.9,
+      "pct_change": -0.28,
+      "volatility_20": 24.38
+    },
+    {
+      "date": "2026-07-21",
+      "usd_krw": 1482.0,
+      "ma20": 1517.21,
+      "ma60": 1506.92,
+      "pct_change": 0.28,
+      "volatility_20": 25.37
+    },
+    {
+      "date": "2026-07-22",
+      "usd_krw": 1477.5,
+      "ma20": 1514.42,
+      "ma60": 1506.87,
+      "pct_change": -0.3,
+      "volatility_20": 26.55
+    },
+    {
+      "date": "2026-07-23",
+      "usd_krw": 1474.2,
+      "ma20": 1511.0,
+      "ma60": 1506.79,
+      "pct_change": -0.22,
+      "volatility_20": 27.13
+    },
+    {
+      "date": "2026-07-24",
+      "usd_krw": 1458.5,
+      "ma20": 1506.77,
+      "ma60": 1506.48,
+      "pct_change": -1.06,
+      "volatility_20": 28.42
+    },
+    {
+      "date": "2026-07-27",
+      "usd_krw": 1465.2,
+      "ma20": 1503.24,
+      "ma60": 1506.34,
+      "pct_change": 0.46,
+      "volatility_20": 29.01
+    },
+    {
+      "date": "2026-07-28",
+      "usd_krw": 1454.1,
+      "ma20": 1498.8,
+      "ma60": 1506.02,
+      "pct_change": -0.76,
+      "volatility_20": 29.4
+    },
+    {
+      "date": "2026-07-29",
+      "usd_krw": 1446.5,
+      "ma20": 1493.64,
+      "ma60": 1505.32,
+      "pct_change": -0.52,
+      "volatility_20": 29.07
+    },
+    {
+      "date": "2026-07-30",
+      "usd_krw": 1418.0,
+      "ma20": 1486.98,
+      "ma60": 1504.33,
+      "pct_change": -1.97,
+      "volatility_20": 30.42
+    },
+    {
+      "date": "2026-07-31",
+      "usd_krw": 1435.5,
+      "ma20": 1481.76,
+      "ma60": 1503.62,
+      "pct_change": 1.23,
+      "volatility_20": 29.8
+    },
+    {
+      "date": "2026-08-03",
+      "usd_krw": 1429.5,
+      "ma20": 1476.74,
+      "ma60": 1503.28,
+      "pct_change": -0.42,
+      "volatility_20": 29.71
+    },
+    {
+      "date": "2026-08-04",
+      "usd_krw": 1429.0,
+      "ma20": 1471.68,
+      "ma60": 1502.83,
+      "pct_change": -0.03,
+      "volatility_20": 28.75
+    },
+    {
+      "date": "2026-08-05",
+      "usd_krw": 1422.5,
+      "ma20": 1467.02,
+      "ma60": 1502.17,
+      "pct_change": -0.45,
+      "volatility_20": 28.78
+    },
+    {
+      "date": "2026-08-06",
+      "usd_krw": 1424.1,
+      "ma20": 1462.98,
+      "ma60": 1501.36,
+      "pct_change": 0.11,
+      "volatility_20": 28.85
+    },
+    {
+      "date": "2026-08-07",
+      "usd_krw": 1408.5,
+      "ma20": 1457.92,
+      "ma60": 1499.99,
+      "pct_change": -1.1,
+      "volatility_20": 29.12
+    },
+    {
+      "date": "2026-08-10",
+      "usd_krw": 1418.3,
+      "ma20": 1453.92,
+      "ma60": 1498.8,
+      "pct_change": 0.7,
+      "volatility_20": 28.75
+    },
+    {
+      "date": "2026-08-11",
+      "usd_krw": 1413.7,
+      "ma20": 1449.72,
+      "ma60": 1497.48,
+      "pct_change": -0.32,
+      "volatility_20": 28.17
+    },
+    {
+      "date": "2026-08-12",
+      "usd_krw": 1418.5,
+      "ma20": 1446.12,
+      "ma60": 1496.16,
+      "pct_change": 0.34,
+      "volatility_20": 27.27
+    },
+    {
+      "date": "2026-08-13",
+      "usd_krw": 1418.6,
+      "ma20": 1442.7,
+      "ma60": 1494.92,
+      "pct_change": 0.01,
+      "volatility_20": 26.14
+    },
+    {
+      "date": "2026-08-14",
+      "usd_krw": 1416.8,
+      "ma20": 1439.45,
+      "ma60": 1493.39,
+      "pct_change": -0.13,
+      "volatility_20": 25.02
+    },
+    {
+      "date": "2026-08-18",
+      "usd_krw": 1412.5,
+      "ma20": 1436.18,
+      "ma60": 1491.99,
+      "pct_change": -0.3,
+      "volatility_20": 23.98
+    },
+    {
+      "date": "2026-08-19",
+      "usd_krw": 1389.1,
+      "ma20": 1431.53,
+      "ma60": 1490.0,
+      "pct_change": -1.66,
+      "volatility_20": 23.64
+    },
+    {
+      "date": "2026-08-20",
+      "usd_krw": 1396.0,
+      "ma20": 1427.46,
+      "ma60": 1487.98,
+      "pct_change": 0.5,
+      "volatility_20": 22.28
+    },
+    {
+      "date": "2026-08-21",
+      "usd_krw": 1386.2,
+      "ma20": 1423.06,
+      "ma60": 1485.96,
+      "pct_change": -0.7,
+      "volatility_20": 21.23
+    },
+    {
+      "date": "2026-08-24",
+      "usd_krw": 1383.2,
+      "ma20": 1419.29,
+      "ma60": 1484.01,
+      "pct_change": -0.22,
+      "volatility_20": 21.29
+    },
+    {
+      "date": "2026-08-25",
+      "usd_krw": 1382.7,
+      "ma20": 1415.16,
+      "ma60": 1482.15,
+      "pct_change": -0.04,
+      "volatility_20": 19.87
+    },
+    {
+      "date": "2026-08-26",
+      "usd_krw": 1386.3,
+      "ma20": 1411.78,
+      "ma60": 1480.17,
+      "pct_change": 0.26,
+      "volatility_20": 18.62
+    },
+    {
+      "date": "2026-08-27",
+      "usd_krw": 1381.5,
+      "ma20": 1408.52,
+      "ma60": 1477.98,
+      "pct_change": -0.35,
+      "volatility_20": 17.9
+    },
+    {
+      "date": "2026-08-28",
+      "usd_krw": 1379.9,
+      "ma20": 1406.62,
+      "ma60": 1475.66,
+      "pct_change": -0.12,
+      "volatility_20": 18.84
+    },
+    {
+      "date": "2026-08-31",
+      "usd_krw": 1368.0,
+      "ma20": 1403.24,
+      "ma60": 1472.93,
+      "pct_change": -0.86,
+      "volatility_20": 19.43
+    },
+    {
+      "date": "2026-09-01",
+      "usd_krw": 1375.0,
+      "ma20": 1400.52,
+      "ma60": 1469.86,
+      "pct_change": 0.51,
+      "volatility_20": 19.38
+    },
+    {
+      "date": "2026-09-02",
+      "usd_krw": 1359.2,
+      "ma20": 1397.03,
+      "ma60": 1467.07,
+      "pct_change": -1.15,
+      "volatility_20": 20.24
+    },
+    {
+      "date": "2026-09-03",
+      "usd_krw": 1357.5,
+      "ma20": 1393.78,
+      "ma60": 1464.15,
+      "pct_change": -0.13,
+      "volatility_20": 21.14
+    }
+  ]
+}
